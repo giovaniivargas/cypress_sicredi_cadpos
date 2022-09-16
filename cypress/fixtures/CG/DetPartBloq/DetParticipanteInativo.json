@@ -1,0 +1,27 @@
+{
+    "principal": {
+        "id": 700015,
+        "codigoEntidade": "942302",
+        "cnpj": "08488377000143",
+        "nomFantasia": "CRESOL Guarani Das Missoes",
+        "cep": "93000000",
+        "logradouro": "Rua Comandai 809",
+        "complemento": null,
+        "bairro": "Centro",
+        "municipio": "GUARANI DAS  MISSOES",
+        "uf": "RS",
+        "tipoEntidade": "PARTICIPANTE",
+        "site": "www.cresol.com.br",
+        "departamento": null,
+        "tipoTelefone": null,
+        "codigoPais": null,
+        "ddd": null,
+        "telefone": null,
+        "email": null,
+        "situacao": "ATIVA",
+        "naoTemContatos": false,
+        "prefixoAgencia": "9423",
+        "statusEnvio": "INATIVO"
+    },
+    "entidades": null
+}

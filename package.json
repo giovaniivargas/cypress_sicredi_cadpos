@@ -1,0 +1,24 @@
+{
+  "name": "cypress_sicredi_cadpos",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/giovaniivargas/cypress_sicredi_cadpos.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/giovaniivargas/cypress_sicredi_cadpos/issues"
+  },
+  "homepage": "https://github.com/giovaniivargas/cypress_sicredi_cadpos#readme",
+  "devDependencies": {
+    "@shelex/cypress-allure-plugin": "^2.31.0",
+    "cypress": "8.3"
+  }
+}

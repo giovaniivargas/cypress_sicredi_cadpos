@@ -1,0 +1,467 @@
+{
+    "detalhe": {
+        "tipoCliente": "1",
+        "origemInformacao": "CREDITO_LEGADO",
+        "prefixoAgencia": "710",
+        "codigoModalidade": "A01",
+        "numeroContrato": "B950238986",
+        "identificacaoCliente": "4576649914",
+        "nomeCliente": "ELAINE NASCIMENTO BARCELOS TEGONI",
+        "dataRemessa": [
+            2020,
+            10,
+            23
+        ],
+        "numeroRemessa": "21"
+    },
+    "cartaoCreditoDetalhe": null,
+    "consorcioDetalhe": null,
+    "creditoParceladoDetalhe": {
+        "dataVencimentoUltimaParcela": "2027-12-10",
+        "valorContratadoFuturo": "21555456",
+        "quantidadeParcelas": 96,
+        "dataRemessa": "2020-10-23",
+        "dataApuracao": "2020-10-21",
+        "listaParcelasAnteriores": [
+            {
+                "dataVencimentoParcelaAnterior": "2027-12-10",
+                "valorParcelaAnterior": "68562",
+                "dataPagamentoParcelaAnterior": "2020-07-24",
+                "valorPagamentoParcelaAnterior": "68562"
+            },
+            {
+                "dataVencimentoParcelaAnterior": "2027-11-10",
+                "valorParcelaAnterior": "69487",
+                "dataPagamentoParcelaAnterior": "2020-07-24",
+                "valorPagamentoParcelaAnterior": "69487"
+            },
+            {
+                "dataVencimentoParcelaAnterior": "2027-10-10",
+                "valorParcelaAnterior": "70425",
+                "dataPagamentoParcelaAnterior": "2020-07-24",
+                "valorPagamentoParcelaAnterior": "70425"
+            },
+            {
+                "dataVencimentoParcelaAnterior": "2027-09-10",
+                "valorParcelaAnterior": "71376",
+                "dataPagamentoParcelaAnterior": "2020-07-24",
+                "valorPagamentoParcelaAnterior": "71376"
+            },
+            {
+                "dataVencimentoParcelaAnterior": "2027-08-10",
+                "valorParcelaAnterior": "72340",
+                "dataPagamentoParcelaAnterior": "2020-07-24",
+                "valorPagamentoParcelaAnterior": "72340"
+            },
+            {
+                "dataVencimentoParcelaAnterior": "2027-07-10",
+                "valorParcelaAnterior": "73316",
+                "dataPagamentoParcelaAnterior": "2020-07-24",
+                "valorPagamentoParcelaAnterior": "73316"
+            },
+            {
+                "dataVencimentoParcelaAnterior": "2027-06-10",
+                "valorParcelaAnterior": "74306",
+                "dataPagamentoParcelaAnterior": "2020-07-24",
+                "valorPagamentoParcelaAnterior": "74306"
+            },
+            {
+                "dataVencimentoParcelaAnterior": "2027-05-10",
+                "valorParcelaAnterior": "75309",
+                "dataPagamentoParcelaAnterior": "2020-07-24",
+                "valorPagamentoParcelaAnterior": "75309"
+            },
+            {
+                "dataVencimentoParcelaAnterior": "2027-04-10",
+                "valorParcelaAnterior": "76326",
+                "dataPagamentoParcelaAnterior": "2020-07-24",
+                "valorPagamentoParcelaAnterior": "76326"
+            },
+            {
+                "dataVencimentoParcelaAnterior": "2027-03-10",
+                "valorParcelaAnterior": "77356",
+                "dataPagamentoParcelaAnterior": "2020-07-24",
+                "valorPagamentoParcelaAnterior": "77356"
+            },
+            {
+                "dataVencimentoParcelaAnterior": "2027-02-10",
+                "valorParcelaAnterior": "78400",
+                "dataPagamentoParcelaAnterior": "2020-07-24",
+                "valorPagamentoParcelaAnterior": "78400"
+            },
+            {
+                "dataVencimentoParcelaAnterior": "2027-01-10",
+                "valorParcelaAnterior": "79459",
+                "dataPagamentoParcelaAnterior": "2020-07-24",
+                "valorPagamentoParcelaAnterior": "79459"
+            },
+            {
+                "dataVencimentoParcelaAnterior": "2026-12-10",
+                "valorParcelaAnterior": "80531",
+                "dataPagamentoParcelaAnterior": "2020-07-24",
+                "valorPagamentoParcelaAnterior": "80531"
+            },
+            {
+                "dataVencimentoParcelaAnterior": "2026-11-10",
+                "valorParcelaAnterior": "81619",
+                "dataPagamentoParcelaAnterior": "2020-07-24",
+                "valorPagamentoParcelaAnterior": "81619"
+            },
+            {
+                "dataVencimentoParcelaAnterior": "2026-10-10",
+                "valorParcelaAnterior": "82720",
+                "dataPagamentoParcelaAnterior": "2020-07-24",
+                "valorPagamentoParcelaAnterior": "82720"
+            },
+            {
+                "dataVencimentoParcelaAnterior": "2026-09-10",
+                "valorParcelaAnterior": "83837",
+                "dataPagamentoParcelaAnterior": "2020-07-24",
+                "valorPagamentoParcelaAnterior": "83837"
+            },
+            {
+                "dataVencimentoParcelaAnterior": "2026-08-10",
+                "valorParcelaAnterior": "84969",
+                "dataPagamentoParcelaAnterior": "2020-07-24",
+                "valorPagamentoParcelaAnterior": "84969"
+            },
+            {
+                "dataVencimentoParcelaAnterior": "2026-07-10",
+                "valorParcelaAnterior": "86116",
+                "dataPagamentoParcelaAnterior": "2020-07-24",
+                "valorPagamentoParcelaAnterior": "86116"
+            },
+            {
+                "dataVencimentoParcelaAnterior": "2026-06-10",
+                "valorParcelaAnterior": "87279",
+                "dataPagamentoParcelaAnterior": "2020-07-24",
+                "valorPagamentoParcelaAnterior": "87279"
+            },
+            {
+                "dataVencimentoParcelaAnterior": "2026-05-10",
+                "valorParcelaAnterior": "88457",
+                "dataPagamentoParcelaAnterior": "2020-07-24",
+                "valorPagamentoParcelaAnterior": "88457"
+            },
+            {
+                "dataVencimentoParcelaAnterior": "2026-04-10",
+                "valorParcelaAnterior": "89651",
+                "dataPagamentoParcelaAnterior": "2020-07-24",
+                "valorPagamentoParcelaAnterior": "89651"
+            },
+            {
+                "dataVencimentoParcelaAnterior": "2026-03-10",
+                "valorParcelaAnterior": "90861",
+                "dataPagamentoParcelaAnterior": "2020-07-24",
+                "valorPagamentoParcelaAnterior": "90861"
+            },
+            {
+                "dataVencimentoParcelaAnterior": "2026-02-10",
+                "valorParcelaAnterior": "92088",
+                "dataPagamentoParcelaAnterior": "2020-07-24",
+                "valorPagamentoParcelaAnterior": "92088"
+            },
+            {
+                "dataVencimentoParcelaAnterior": "2026-01-10",
+                "valorParcelaAnterior": "93331",
+                "dataPagamentoParcelaAnterior": "2020-07-24",
+                "valorPagamentoParcelaAnterior": "93331"
+            },
+            {
+                "dataVencimentoParcelaAnterior": "2025-12-10",
+                "valorParcelaAnterior": "94591",
+                "dataPagamentoParcelaAnterior": "2020-07-24",
+                "valorPagamentoParcelaAnterior": "94591"
+            },
+            {
+                "dataVencimentoParcelaAnterior": "2025-11-10",
+                "valorParcelaAnterior": "95868",
+                "dataPagamentoParcelaAnterior": "2020-07-24",
+                "valorPagamentoParcelaAnterior": "95868"
+            },
+            {
+                "dataVencimentoParcelaAnterior": "2025-10-10",
+                "valorParcelaAnterior": "97162",
+                "dataPagamentoParcelaAnterior": "2020-07-24",
+                "valorPagamentoParcelaAnterior": "97162"
+            },
+            {
+                "dataVencimentoParcelaAnterior": "2025-09-10",
+                "valorParcelaAnterior": "98474",
+                "dataPagamentoParcelaAnterior": "2020-07-24",
+                "valorPagamentoParcelaAnterior": "98474"
+            },
+            {
+                "dataVencimentoParcelaAnterior": "2025-08-10",
+                "valorParcelaAnterior": "99803",
+                "dataPagamentoParcelaAnterior": "2020-07-24",
+                "valorPagamentoParcelaAnterior": "99803"
+            },
+            {
+                "dataVencimentoParcelaAnterior": "2020-10-10",
+                "valorParcelaAnterior": "217231",
+                "dataPagamentoParcelaAnterior": "2020-07-24",
+                "valorPagamentoParcelaAnterior": "217231"
+            },
+            {
+                "dataVencimentoParcelaAnterior": "2020-09-10",
+                "valorParcelaAnterior": "220164",
+                "dataPagamentoParcelaAnterior": "2020-07-24",
+                "valorPagamentoParcelaAnterior": "220164"
+            },
+            {
+                "dataVencimentoParcelaAnterior": "2020-08-10",
+                "valorParcelaAnterior": "223136",
+                "dataPagamentoParcelaAnterior": "2020-07-24",
+                "valorPagamentoParcelaAnterior": "223136"
+            },
+            {
+                "dataVencimentoParcelaAnterior": "2020-07-10",
+                "valorParcelaAnterior": "224536",
+                "dataPagamentoParcelaAnterior": "2020-07-10",
+                "valorPagamentoParcelaAnterior": "224536"
+            },
+            {
+                "dataVencimentoParcelaAnterior": "2020-06-10",
+                "valorParcelaAnterior": "224536",
+                "dataPagamentoParcelaAnterior": "2020-06-10",
+                "valorPagamentoParcelaAnterior": "224536"
+            },
+            {
+                "dataVencimentoParcelaAnterior": "2020-05-10",
+                "valorParcelaAnterior": "224536",
+                "dataPagamentoParcelaAnterior": "2020-05-11",
+                "valorPagamentoParcelaAnterior": "224536"
+            },
+            {
+                "dataVencimentoParcelaAnterior": "2020-04-10",
+                "valorParcelaAnterior": "224536",
+                "dataPagamentoParcelaAnterior": "2020-04-13",
+                "valorPagamentoParcelaAnterior": "224536"
+            },
+            {
+                "dataVencimentoParcelaAnterior": "2020-03-10",
+                "valorParcelaAnterior": "224536",
+                "dataPagamentoParcelaAnterior": "2020-03-10",
+                "valorPagamentoParcelaAnterior": "224536"
+            },
+            {
+                "dataVencimentoParcelaAnterior": "2020-02-10",
+                "valorParcelaAnterior": "224536",
+                "dataPagamentoParcelaAnterior": "2020-02-10",
+                "valorPagamentoParcelaAnterior": "224536"
+            },
+            {
+                "dataVencimentoParcelaAnterior": "2020-01-10",
+                "valorParcelaAnterior": "224536",
+                "dataPagamentoParcelaAnterior": "2020-01-10",
+                "valorPagamentoParcelaAnterior": "224536"
+            }
+        ],
+        "listaParcelasAvulsas": [
+            {
+                "dataPagamentoAvulso": "2020-07-24",
+                "valorPagamentoAvulso": "11012581",
+                "tipoPagamentoAvulso": "A"
+            },
+            {
+                "dataPagamentoAvulso": "2020-07-24",
+                "valorPagamentoAvulso": "11012581",
+                "tipoPagamentoAvulso": "A"
+            },
+            {
+                "dataPagamentoAvulso": "2020-07-24",
+                "valorPagamentoAvulso": "11012581",
+                "tipoPagamentoAvulso": "A"
+            },
+            {
+                "dataPagamentoAvulso": "2020-07-24",
+                "valorPagamentoAvulso": "11012581",
+                "tipoPagamentoAvulso": "A"
+            },
+            {
+                "dataPagamentoAvulso": "2020-07-24",
+                "valorPagamentoAvulso": "11012581",
+                "tipoPagamentoAvulso": "A"
+            },
+            {
+                "dataPagamentoAvulso": "2020-07-24",
+                "valorPagamentoAvulso": "11012581",
+                "tipoPagamentoAvulso": "A"
+            },
+            {
+                "dataPagamentoAvulso": "2020-07-24",
+                "valorPagamentoAvulso": "11012581",
+                "tipoPagamentoAvulso": "A"
+            },
+            {
+                "dataPagamentoAvulso": "2020-07-24",
+                "valorPagamentoAvulso": "11012581",
+                "tipoPagamentoAvulso": "A"
+            },
+            {
+                "dataPagamentoAvulso": "2020-07-24",
+                "valorPagamentoAvulso": "11012581",
+                "tipoPagamentoAvulso": "A"
+            },
+            {
+                "dataPagamentoAvulso": "2020-07-24",
+                "valorPagamentoAvulso": "11012581",
+                "tipoPagamentoAvulso": "A"
+            },
+            {
+                "dataPagamentoAvulso": "2020-07-24",
+                "valorPagamentoAvulso": "11012581",
+                "tipoPagamentoAvulso": "A"
+            },
+            {
+                "dataPagamentoAvulso": "2020-07-24",
+                "valorPagamentoAvulso": "11012581",
+                "tipoPagamentoAvulso": "A"
+            },
+            {
+                "dataPagamentoAvulso": "2020-07-24",
+                "valorPagamentoAvulso": "11012581",
+                "tipoPagamentoAvulso": "A"
+            },
+            {
+                "dataPagamentoAvulso": "2020-07-24",
+                "valorPagamentoAvulso": "11012581",
+                "tipoPagamentoAvulso": "A"
+            },
+            {
+                "dataPagamentoAvulso": "2020-07-24",
+                "valorPagamentoAvulso": "11012581",
+                "tipoPagamentoAvulso": "A"
+            },
+            {
+                "dataPagamentoAvulso": "2020-07-24",
+                "valorPagamentoAvulso": "11012581",
+                "tipoPagamentoAvulso": "A"
+            },
+            {
+                "dataPagamentoAvulso": "2020-07-24",
+                "valorPagamentoAvulso": "11012581",
+                "tipoPagamentoAvulso": "A"
+            },
+            {
+                "dataPagamentoAvulso": "2020-07-24",
+                "valorPagamentoAvulso": "11012581",
+                "tipoPagamentoAvulso": "A"
+            },
+            {
+                "dataPagamentoAvulso": "2020-07-24",
+                "valorPagamentoAvulso": "11012581",
+                "tipoPagamentoAvulso": "A"
+            },
+            {
+                "dataPagamentoAvulso": "2020-07-24",
+                "valorPagamentoAvulso": "11012581",
+                "tipoPagamentoAvulso": "A"
+            },
+            {
+                "dataPagamentoAvulso": "2020-07-24",
+                "valorPagamentoAvulso": "11012581",
+                "tipoPagamentoAvulso": "A"
+            },
+            {
+                "dataPagamentoAvulso": "2020-07-24",
+                "valorPagamentoAvulso": "11012581",
+                "tipoPagamentoAvulso": "A"
+            },
+            {
+                "dataPagamentoAvulso": "2020-07-24",
+                "valorPagamentoAvulso": "11012581",
+                "tipoPagamentoAvulso": "A"
+            },
+            {
+                "dataPagamentoAvulso": "2020-07-24",
+                "valorPagamentoAvulso": "11012581",
+                "tipoPagamentoAvulso": "A"
+            },
+            {
+                "dataPagamentoAvulso": "2020-07-24",
+                "valorPagamentoAvulso": "11012581",
+                "tipoPagamentoAvulso": "A"
+            },
+            {
+                "dataPagamentoAvulso": "2020-07-24",
+                "valorPagamentoAvulso": "11012581",
+                "tipoPagamentoAvulso": "A"
+            },
+            {
+                "dataPagamentoAvulso": "2020-07-24",
+                "valorPagamentoAvulso": "11012581",
+                "tipoPagamentoAvulso": "A"
+            },
+            {
+                "dataPagamentoAvulso": "2020-07-24",
+                "valorPagamentoAvulso": "11012581",
+                "tipoPagamentoAvulso": "A"
+            },
+            {
+                "dataPagamentoAvulso": "2020-07-24",
+                "valorPagamentoAvulso": "11012581",
+                "tipoPagamentoAvulso": "A"
+            },
+            {
+                "dataPagamentoAvulso": "2020-07-24",
+                "valorPagamentoAvulso": "11012581",
+                "tipoPagamentoAvulso": "A"
+            },
+            {
+                "dataPagamentoAvulso": "2020-07-24",
+                "valorPagamentoAvulso": "11012581",
+                "tipoPagamentoAvulso": "A"
+            },
+            {
+                "dataPagamentoAvulso": "2020-07-24",
+                "valorPagamentoAvulso": "11012581",
+                "tipoPagamentoAvulso": "A"
+            },
+            {
+                "dataPagamentoAvulso": "2020-07-24",
+                "valorPagamentoAvulso": "11012581",
+                "tipoPagamentoAvulso": "A"
+            },
+            {
+                "dataPagamentoAvulso": "2020-07-24",
+                "valorPagamentoAvulso": "11012581",
+                "tipoPagamentoAvulso": "A"
+            },
+            {
+                "dataPagamentoAvulso": "2020-07-24",
+                "valorPagamentoAvulso": "11012581",
+                "tipoPagamentoAvulso": "A"
+            },
+            {
+                "dataPagamentoAvulso": "2020-07-24",
+                "valorPagamentoAvulso": "11012581",
+                "tipoPagamentoAvulso": "A"
+            },
+            {
+                "dataPagamentoAvulso": "2020-07-24",
+                "valorPagamentoAvulso": "11012581",
+                "tipoPagamentoAvulso": "A"
+            },
+            {
+                "dataPagamentoAvulso": "2020-07-24",
+                "valorPagamentoAvulso": "11012581",
+                "tipoPagamentoAvulso": "A"
+            },
+            {
+                "dataPagamentoAvulso": "2020-07-24",
+                "valorPagamentoAvulso": "11012581",
+                "tipoPagamentoAvulso": "A"
+            }
+        ],
+        "parcelasFuturas": {
+            "dataVencimentoProximaParcela": null,
+            "valorProximaParcela": null,
+            "quantidadeParcelasAVencer": 0,
+            "quantidadeParcelasAPagar": 0,
+            "periodicidadeParcelaFutura": "M"
+        }
+    },
+    "rotativoDetalhe": null
+}

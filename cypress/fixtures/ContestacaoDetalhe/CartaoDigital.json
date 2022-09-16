@@ -1,0 +1,43 @@
+{
+    "contestacaoDetalhe": {
+        "identificadorSequencialContestacao": 99600020,
+        "nomeCliente": "EDUARDO DA CONCEICAO",
+        "prefixoAgencia": "3950",
+        "detalhamentoPrefixoAgencia": "3950",
+        "detalhamentoNumeroContrato": "D0004345159000129569",
+        "numeroContrato": "D0004345159000129569",
+        "codigoModalidade": "D01",
+        "identificacaoCliente": "70068254156",
+        "detalhamentoIdentificacaoCliente": "70068254156",
+        "tipoCliente": "1",
+        "justificativaContestacao": "C01|Cartao de Credito|Nao reconheco esse contrato",
+        "codigoOcorrencia": "0",
+        "observacaoContestacao": "EM ANALISE",
+        "tipoContestacao": "O",
+        "numeroRemessa": "189",
+        "dataAcolhimento": "2022-05-21",
+        "nomeGbd": "SERASA",
+        "origemInformacao": "CARTOES_DIGITAL",
+        "dataRemessa": "2022-07-08",
+        "dataApuracao": null,
+        "dataResposta": null,
+        "ldapUserAtualizacao": null
+    },
+    "cartaoCreditoDetalhe": {
+        "numeroPlasticoCartao": "8926",
+        "saldoDevedor": "58140",
+        "dataRemessa": "2022-07-07",
+        "dataApuracao": "2022-07-06",
+        "listaParcelasAnteriores": [],
+        "listaParcelasFuturas": [
+            {
+                "dataVencimentoFaturaFechamentoFutura": null,
+                "valorTotalPagamentoFaturaFechamentoFutura": "0",
+                "valorMinimoPagamentoFaturaFechamentoFutura": "0"
+            }
+        ]
+    },
+    "consorcioDetalhe": null,
+    "creditoParceladoDetalhe": null,
+    "rotativoDetalhe": null
+}

@@ -1,0 +1,43 @@
+{
+    "detalhe": {
+        "tipoCliente": "2",
+        "origemInformacao": "CHANGE_LEGADO",
+        "prefixoAgencia": "1504",
+        "codigoModalidade": "B02",
+        "numeroContrato": "FIMP28219",
+        "identificacaoCliente": "9425544000170",
+        "nomeCliente": "NAJA SERVICOS E SOLUCOES EM TECNOLOGIA LTDA",
+        "dataRemessa": [
+            2021,
+            10,
+            8
+        ],
+        "numeroRemessa": "77"
+    },
+    "cartaoCreditoDetalhe": null,
+    "consorcioDetalhe": null,
+    "creditoParceladoDetalhe": {
+        "dataVencimentoUltimaParcela": "2021-08-20",
+        "valorContratadoFuturo": "9353295",
+        "quantidadeParcelas": 1,
+        "dataRemessa": "2021-10-08",
+        "dataApuracao": "2021-10-05",
+        "listaParcelasAnteriores": [
+            {
+                "dataVencimentoParcelaAnterior": "2021-08-20",
+                "valorParcelaAnterior": "9353295",
+                "dataPagamentoParcelaAnterior": "2021-08-20",
+                "valorPagamentoParcelaAnterior": "12792868"
+            }
+        ],
+        "listaParcelasAvulsas": [],
+        "parcelasFuturas": {
+            "dataVencimentoProximaParcela": null,
+            "valorProximaParcela": null,
+            "quantidadeParcelasAVencer": 0,
+            "quantidadeParcelasAPagar": 1,
+            "periodicidadeParcelaFutura": "E"
+        }
+    },
+    "rotativoDetalhe": null
+}

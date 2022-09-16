@@ -1,0 +1,34 @@
+{
+    "detalhe": {
+        "dataRemessa": "2021-10-08",
+        "numeroRemessa": "77",
+        "prefixoAgencia": "1504",
+        "identificacaoCliente": "30466279000164",
+        "tipoCliente": "2",
+        "nomeCliente": "AXGLOBAL INDUSTRIA E COMERCIO DE PRODUTOS ELETRONICOS E DE T",
+        "numeroContrato": "FIMP11421",
+        "codigoModalidade": "B02",
+        "codigoOcorrenciaCliente": "212",
+        "descricaoOcorrenciaCliente": "O cliente consta na base de cancelados",
+        "origemInformacao": "CHANGE_LEGADO"
+    },
+    "cartaoCreditoDetalhe": null,
+    "consorcioDetalhe": null,
+    "creditoParceladoDetalhe": {
+        "dataVencimentoUltimaParcela": "2022-03-18",
+        "valorContratadoFuturo": "7950542",
+        "quantidadeParcelas": 1,
+        "dataRemessa": "2021-10-08",
+        "dataApuracao": "2021-10-05",
+        "listaParcelasAnteriores": [],
+        "listaParcelasAvulsas": [],
+        "parcelasFuturas": {
+            "dataVencimentoProximaParcela": "2022-03-18",
+            "valorProximaParcela": "8109040",
+            "quantidadeParcelasAVencer": 1,
+            "quantidadeParcelasAPagar": 1,
+            "periodicidadeParcelaFutura": "E"
+        }
+    },
+    "rotativoDetalhe": null
+}

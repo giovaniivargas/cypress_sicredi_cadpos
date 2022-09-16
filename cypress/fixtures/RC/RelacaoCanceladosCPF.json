@@ -1,0 +1,37 @@
+{
+    "content": [
+        {
+            "identificacaoCliente": "10023280980",
+            "tipoCliente": "1",
+            "nomeCliente": "ALESSANDRA ORESTES",
+            "nomeGbd": "BOA_VISTA",
+            "dataCancelamento": "2020-04-22",
+            "dataRemessa": "2021-11-02"
+        }
+    ],
+    "pageable": {
+        "sort": {
+            "sorted": false,
+            "unsorted": true,
+            "empty": true
+        },
+        "pageSize": 10,
+        "pageNumber": 0,
+        "offset": 0,
+        "paged": true,
+        "unpaged": false
+    },
+    "totalElements": 1,
+    "last": true,
+    "totalPages": 1,
+    "first": true,
+    "size": 10,
+    "number": 0,
+    "sort": {
+        "sorted": false,
+        "unsorted": true,
+        "empty": true
+    },
+    "numberOfElements": 1,
+    "empty": false
+}

@@ -1,0 +1,125 @@
+{
+    "detalhe": {
+        "dataRemessa": "2021-10-08",
+        "numeroRemessa": "77",
+        "prefixoAgencia": "715",
+        "identificacaoCliente": "3865397905",
+        "tipoCliente": "1",
+        "nomeCliente": "ROGERIO GIMENES DUTRA",
+        "numeroContrato": "5225900234218112",
+        "codigoModalidade": "D01",
+        "codigoOcorrenciaCliente": "157",
+        "descricaoOcorrenciaCliente": "Saldo devedor inválido",
+        "origemInformacao": "CARTOES_PF_LEGADO"
+    },
+    "cartaoCreditoDetalhe": {
+        "numeroPlasticoCartao": "8112",
+        "saldoDevedor": "371452",
+        "dataRemessa": "2021-10-08",
+        "dataApuracao": "2021-10-07",
+        "listaParcelasAnteriores": [
+            {
+                "dataVencimentoFaturaFechadaAnterior": "2021-10-10",
+                "valorTotalPagamentoFaturaFechamentoAnterior": "371452",
+                "valorMinimoPagamentoFaturaFechamentoAnterior": "371452",
+                "dataPagamentoFaturaFechamentoAnterior": "2021-09-29",
+                "valorPagamentoFaturaFechamentoAnterior": "130008"
+            },
+            {
+                "dataVencimentoFaturaFechadaAnterior": "2021-09-10",
+                "valorTotalPagamentoFaturaFechamentoAnterior": "371452",
+                "valorMinimoPagamentoFaturaFechamentoAnterior": "371452",
+                "dataPagamentoFaturaFechamentoAnterior": null,
+                "valorPagamentoFaturaFechamentoAnterior": null
+            },
+            {
+                "dataVencimentoFaturaFechadaAnterior": "2021-08-10",
+                "valorTotalPagamentoFaturaFechamentoAnterior": "371452",
+                "valorMinimoPagamentoFaturaFechamentoAnterior": "371452",
+                "dataPagamentoFaturaFechamentoAnterior": null,
+                "valorPagamentoFaturaFechamentoAnterior": null
+            },
+            {
+                "dataVencimentoFaturaFechadaAnterior": "2021-07-10",
+                "valorTotalPagamentoFaturaFechamentoAnterior": "371452",
+                "valorMinimoPagamentoFaturaFechamentoAnterior": "371452",
+                "dataPagamentoFaturaFechamentoAnterior": null,
+                "valorPagamentoFaturaFechamentoAnterior": null
+            },
+            {
+                "dataVencimentoFaturaFechadaAnterior": "2021-06-10",
+                "valorTotalPagamentoFaturaFechamentoAnterior": "371452",
+                "valorMinimoPagamentoFaturaFechamentoAnterior": "371452",
+                "dataPagamentoFaturaFechamentoAnterior": null,
+                "valorPagamentoFaturaFechamentoAnterior": null
+            },
+            {
+                "dataVencimentoFaturaFechadaAnterior": "2021-05-10",
+                "valorTotalPagamentoFaturaFechamentoAnterior": "371452",
+                "valorMinimoPagamentoFaturaFechamentoAnterior": "371452",
+                "dataPagamentoFaturaFechamentoAnterior": null,
+                "valorPagamentoFaturaFechamentoAnterior": null
+            },
+            {
+                "dataVencimentoFaturaFechadaAnterior": "2021-04-10",
+                "valorTotalPagamentoFaturaFechamentoAnterior": "371452",
+                "valorMinimoPagamentoFaturaFechamentoAnterior": "371452",
+                "dataPagamentoFaturaFechamentoAnterior": null,
+                "valorPagamentoFaturaFechamentoAnterior": null
+            },
+            {
+                "dataVencimentoFaturaFechadaAnterior": "2021-03-10",
+                "valorTotalPagamentoFaturaFechamentoAnterior": "371452",
+                "valorMinimoPagamentoFaturaFechamentoAnterior": "371452",
+                "dataPagamentoFaturaFechamentoAnterior": null,
+                "valorPagamentoFaturaFechamentoAnterior": null
+            },
+            {
+                "dataVencimentoFaturaFechadaAnterior": "2021-02-10",
+                "valorTotalPagamentoFaturaFechamentoAnterior": "371452",
+                "valorMinimoPagamentoFaturaFechamentoAnterior": "371452",
+                "dataPagamentoFaturaFechamentoAnterior": null,
+                "valorPagamentoFaturaFechamentoAnterior": null
+            },
+            {
+                "dataVencimentoFaturaFechadaAnterior": "2021-01-10",
+                "valorTotalPagamentoFaturaFechamentoAnterior": "371452",
+                "valorMinimoPagamentoFaturaFechamentoAnterior": "371452",
+                "dataPagamentoFaturaFechamentoAnterior": null,
+                "valorPagamentoFaturaFechamentoAnterior": null
+            },
+            {
+                "dataVencimentoFaturaFechadaAnterior": "2020-12-10",
+                "valorTotalPagamentoFaturaFechamentoAnterior": "371452",
+                "valorMinimoPagamentoFaturaFechamentoAnterior": "371452",
+                "dataPagamentoFaturaFechamentoAnterior": null,
+                "valorPagamentoFaturaFechamentoAnterior": null
+            },
+            {
+                "dataVencimentoFaturaFechadaAnterior": "2020-11-10",
+                "valorTotalPagamentoFaturaFechamentoAnterior": "371452",
+                "valorMinimoPagamentoFaturaFechamentoAnterior": "371452",
+                "dataPagamentoFaturaFechamentoAnterior": null,
+                "valorPagamentoFaturaFechamentoAnterior": null
+            },
+            {
+                "dataVencimentoFaturaFechadaAnterior": "2020-10-10",
+                "valorTotalPagamentoFaturaFechamentoAnterior": "371452",
+                "valorMinimoPagamentoFaturaFechamentoAnterior": "371452",
+                "dataPagamentoFaturaFechamentoAnterior": null,
+                "valorPagamentoFaturaFechamentoAnterior": null
+            },
+            {
+                "dataVencimentoFaturaFechadaAnterior": "2020-09-10",
+                "valorTotalPagamentoFaturaFechamentoAnterior": "371452",
+                "valorMinimoPagamentoFaturaFechamentoAnterior": "371452",
+                "dataPagamentoFaturaFechamentoAnterior": null,
+                "valorPagamentoFaturaFechamentoAnterior": null
+            }
+        ],
+        "listaParcelasFuturas": []
+    },
+    "consorcioDetalhe": null,
+    "creditoParceladoDetalhe": null,
+    "rotativoDetalhe": null
+}

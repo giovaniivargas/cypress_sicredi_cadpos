@@ -1,0 +1,103 @@
+{
+    "detalhe": {
+        "tipoCliente": "1",
+        "origemInformacao": "IMOBILIARIO_LEGADO",
+        "prefixoAgencia": "1504",
+        "codigoModalidade": "B03",
+        "numeroContrato": "0250009041",
+        "identificacaoCliente": "75382610010",
+        "nomeCliente": "IVAN HERMINDO BASSO",
+        "dataRemessa": [
+            2021,
+            10,
+            8
+        ],
+        "numeroRemessa": "77"
+    },
+    "cartaoCreditoDetalhe": null,
+    "consorcioDetalhe": null,
+    "creditoParceladoDetalhe": {
+        "dataVencimentoUltimaParcela": "2049-04-10",
+        "valorContratadoFuturo": "195000",
+        "quantidadeParcelas": 360,
+        "dataRemessa": "2021-10-08",
+        "dataApuracao": "2021-10-06",
+        "listaParcelasAnteriores": [
+            {
+                "dataVencimentoParcelaAnterior": "2021-09-10",
+                "valorParcelaAnterior": "1756",
+                "dataPagamentoParcelaAnterior": "2021-09-10",
+                "valorPagamentoParcelaAnterior": "1756"
+            },
+            {
+                "dataVencimentoParcelaAnterior": "2021-08-10",
+                "valorParcelaAnterior": "1759",
+                "dataPagamentoParcelaAnterior": "2021-08-10",
+                "valorPagamentoParcelaAnterior": "1759"
+            },
+            {
+                "dataVencimentoParcelaAnterior": "2021-07-10",
+                "valorParcelaAnterior": "1762",
+                "dataPagamentoParcelaAnterior": "2021-07-10",
+                "valorPagamentoParcelaAnterior": "1762"
+            },
+            {
+                "dataVencimentoParcelaAnterior": "2021-06-10",
+                "valorParcelaAnterior": "1766",
+                "dataPagamentoParcelaAnterior": "2021-06-10",
+                "valorPagamentoParcelaAnterior": "1766"
+            },
+            {
+                "dataVencimentoParcelaAnterior": "2021-05-10",
+                "valorParcelaAnterior": "1769",
+                "dataPagamentoParcelaAnterior": "2021-05-10",
+                "valorPagamentoParcelaAnterior": "1769"
+            },
+            {
+                "dataVencimentoParcelaAnterior": "2021-04-10",
+                "valorParcelaAnterior": "1773",
+                "dataPagamentoParcelaAnterior": "2021-04-10",
+                "valorPagamentoParcelaAnterior": "1773"
+            },
+            {
+                "dataVencimentoParcelaAnterior": "2021-03-10",
+                "valorParcelaAnterior": "1776",
+                "dataPagamentoParcelaAnterior": "2021-03-10",
+                "valorPagamentoParcelaAnterior": "1776"
+            },
+            {
+                "dataVencimentoParcelaAnterior": "2021-02-10",
+                "valorParcelaAnterior": "1780",
+                "dataPagamentoParcelaAnterior": "2021-02-10",
+                "valorPagamentoParcelaAnterior": "1780"
+            },
+            {
+                "dataVencimentoParcelaAnterior": "2021-01-10",
+                "valorParcelaAnterior": "1783",
+                "dataPagamentoParcelaAnterior": "2021-01-10",
+                "valorPagamentoParcelaAnterior": "1783"
+            },
+            {
+                "dataVencimentoParcelaAnterior": "2020-12-10",
+                "valorParcelaAnterior": "1786",
+                "dataPagamentoParcelaAnterior": "2020-12-10",
+                "valorPagamentoParcelaAnterior": "1786"
+            },
+            {
+                "dataVencimentoParcelaAnterior": "2020-11-10",
+                "valorParcelaAnterior": "1790",
+                "dataPagamentoParcelaAnterior": "2020-11-10",
+                "valorPagamentoParcelaAnterior": "1790"
+            }
+        ],
+        "listaParcelasAvulsas": [],
+        "parcelasFuturas": {
+            "dataVencimentoProximaParcela": "2021-10-10",
+            "valorProximaParcela": "1752",
+            "quantidadeParcelasAVencer": 331,
+            "quantidadeParcelasAPagar": 331,
+            "periodicidadeParcelaFutura": "M"
+        }
+    },
+    "rotativoDetalhe": null
+}

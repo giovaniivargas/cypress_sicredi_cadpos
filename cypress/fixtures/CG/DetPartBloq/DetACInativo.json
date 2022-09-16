@@ -1,0 +1,19 @@
+{
+    "principal": null,
+    "contatos": [
+        {
+            "id": 8700001,
+            "cnpj": "04490531000160",
+            "departamento": "Central de Atendimento",
+            "tipoTelefone": "CAPITAIS E REGIOES METROPOLITANAS",
+            "codigoPais": "55",
+            "ddd": "51",
+            "telefone": "08007247220",
+            "email": null,
+            "codigoEntidade": "937502",
+            "tipoEntidade": "PARTICIPANTE",
+            "situacao": "ATIVO",
+            "statusEnvio": "INATIVO"
+        }
+    ]
+}

@@ -1,0 +1,53 @@
+{
+    "content": [
+        {
+            "id": 1100005,
+            "codigoEntidade": "Z33",
+            "cnpj": "07782975000168",
+            "nomFantasia": "Condominio Centro Administrativo Sicredi",
+            "cep": null,
+            "logradouro": null,
+            "complemento": null,
+            "bairro": null,
+            "municipio": null,
+            "uf": null,
+            "tipoEntidade": null,
+            "site": null,
+            "departamento": null,
+            "tipoTelefone": null,
+            "codigoPais": null,
+            "ddd": null,
+            "telefone": null,
+            "email": null,
+            "situacao": null,
+            "naoTemContatos": true,
+            "prefixoAgencia": "1505",
+            "statusEnvio": "INATIVO"
+        }
+    ],
+    "pageable": {
+        "sort": {
+            "sorted": false,
+            "unsorted": true,
+            "empty": true
+        },
+        "pageSize": 3,
+        "pageNumber": 0,
+        "offset": 0,
+        "paged": true,
+        "unpaged": false
+    },
+    "totalPages": 74,
+    "totalElements": 222,
+    "last": false,
+    "first": true,
+    "sort": {
+        "sorted": false,
+        "unsorted": true,
+        "empty": true
+    },
+    "numberOfElements": 1,
+    "size": 3,
+    "number": 0,
+    "empty": false
+}

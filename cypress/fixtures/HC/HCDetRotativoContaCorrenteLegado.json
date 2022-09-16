@@ -1,0 +1,73 @@
+{
+    "detalhe": {
+        "tipoCliente": "1",
+        "origemInformacao": "ROTATIVO_CONTA_CORRENTE_LEGADO",
+        "prefixoAgencia": "718",
+        "codigoModalidade": "E01",
+        "numeroContrato": "E867904",
+        "identificacaoCliente": "22059372860",
+        "nomeCliente": "LEONARDO SCHIAVINATO SALLUM",
+        "dataRemessa": [
+            2020,
+            10,
+            23
+        ],
+        "numeroRemessa": "21"
+    },
+    "cartaoCreditoDetalhe": null,
+    "consorcioDetalhe": null,
+    "creditoParceladoDetalhe": null,
+    "rotativoDetalhe": {
+        "dataVencimentoOperacao": "2020-12-14",
+        "dataRemessa": "2020-10-23",
+        "dataApuracao": "2020-10-20",
+        "listaParcelasAnteriores": [
+            {
+                "dataFechamentoAnterior": "2020-09-30",
+                "saldoUtilizadoFechamentoAnterior": "95411"
+            },
+            {
+                "dataFechamentoAnterior": "2020-08-31",
+                "saldoUtilizadoFechamentoAnterior": "82158"
+            },
+            {
+                "dataFechamentoAnterior": "2020-07-31",
+                "saldoUtilizadoFechamentoAnterior": "70885"
+            },
+            {
+                "dataFechamentoAnterior": "2020-06-30",
+                "saldoUtilizadoFechamentoAnterior": "60640"
+            },
+            {
+                "dataFechamentoAnterior": "2020-05-31",
+                "saldoUtilizadoFechamentoAnterior": "49731"
+            },
+            {
+                "dataFechamentoAnterior": "2020-04-30",
+                "saldoUtilizadoFechamentoAnterior": "41368"
+            },
+            {
+                "dataFechamentoAnterior": "2020-03-31",
+                "saldoUtilizadoFechamentoAnterior": "33126"
+            },
+            {
+                "dataFechamentoAnterior": "2020-02-29",
+                "saldoUtilizadoFechamentoAnterior": "24528"
+            },
+            {
+                "dataFechamentoAnterior": "2020-01-31",
+                "saldoUtilizadoFechamentoAnterior": "17543"
+            },
+            {
+                "dataFechamentoAnterior": "2019-12-31",
+                "saldoUtilizadoFechamentoAnterior": "11569"
+            }
+        ],
+        "listaParcelasAtuais": [
+            {
+                "dataFechamentoAtual": "2020-10-20",
+                "saldoUtilizadoFechamentoAtual": "108427"
+            }
+        ]
+    }
+}

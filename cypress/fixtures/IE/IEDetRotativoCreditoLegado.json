@@ -1,0 +1,55 @@
+{
+    "detalhe": {
+        "dataRemessa": "2021-10-15",
+        "numeroRemessa": "78",
+        "prefixoAgencia": "229",
+        "identificacaoCliente": "2914467010",
+        "tipoCliente": "1",
+        "nomeCliente": "EMERSON LUIS RISTOW",
+        "numeroContrato": "B906305479",
+        "codigoModalidade": "E01",
+        "codigoOcorrenciaCliente": "131",
+        "descricaoOcorrenciaCliente": "CNPJ da contratação inválido",
+        "origemInformacao": "ROTATIVO_CREDITO_LEGADO"
+    },
+    "cartaoCreditoDetalhe": null,
+    "consorcioDetalhe": null,
+    "creditoParceladoDetalhe": null,
+    "rotativoDetalhe": {
+        "dataVencimentoOperacao": "2020-12-22",
+        "dataRemessa": "2021-10-15",
+        "dataApuracao": "2021-10-14",
+        "listaParcelasAnteriores": [
+            {
+                "dataFechamentoAnterior": "2020-05-31",
+                "saldoUtilizadoFechamentoAnterior": "1029309"
+            },
+            {
+                "dataFechamentoAnterior": "2020-04-30",
+                "saldoUtilizadoFechamentoAnterior": "1031489"
+            },
+            {
+                "dataFechamentoAnterior": "2020-03-31",
+                "saldoUtilizadoFechamentoAnterior": "1031489"
+            },
+            {
+                "dataFechamentoAnterior": "2020-02-29",
+                "saldoUtilizadoFechamentoAnterior": "831844"
+            },
+            {
+                "dataFechamentoAnterior": "2020-01-31",
+                "saldoUtilizadoFechamentoAnterior": "316669"
+            },
+            {
+                "dataFechamentoAnterior": "2019-12-31",
+                "saldoUtilizadoFechamentoAnterior": "302833"
+            }
+        ],
+        "listaParcelasAtuais": [
+            {
+                "dataFechamentoAtual": "2020-06-05",
+                "saldoUtilizadoFechamentoAtual": "1000333"
+            }
+        ]
+    }
+}

@@ -1,0 +1,49 @@
+{
+    "content": [
+        {
+            "identificadorSequencialContestacao": 200161,
+            "tipoCliente": "1",
+            "identificacaoCliente": "01558335706",
+            "detalhamentoIdentificacaoCliente": "01558335706",
+            "prefixoAgencia": "710",
+            "numeroContrato": "C019200958",
+            "detalhamentoPrefixoAgencia": "710",
+            "detalhamentoNumeroContrato": "C019200958",
+            "tipoContestacao": "O",
+            "dataAcolhimento": "2021-06-26",
+            "nomeCliente": "IRONEIDE DA SILVA NASCIMENTO",
+            "codigoModalidade": "A01",
+            "codigoOcorrencia": "7",
+            "origemInformacao": "CREDITO_LEGADO",
+            "nomeGbd": "SERASA",
+            "dataEnvio": "2021-07-09@13:38",
+            "dataResposta": "2021-07-08@13:38",
+            "naoPodeEditar": true
+        }
+    ],
+    "pageable": {
+        "sort": {
+            "sorted": false,
+            "unsorted": true,
+            "empty": true
+        },
+        "pageSize": 10,
+        "pageNumber": 0,
+        "offset": 0,
+        "paged": true,
+        "unpaged": false
+    },
+    "last": true,
+    "totalPages": 1,
+    "totalElements": 1,
+    "first": true,
+    "sort": {
+        "sorted": false,
+        "unsorted": true,
+        "empty": true
+    },
+    "size": 10,
+    "number": 0,
+    "numberOfElements": 1,
+    "empty": false
+}

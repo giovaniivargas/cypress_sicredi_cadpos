@@ -1,0 +1,91 @@
+{
+    "detalhe": {
+        "tipoCliente": "1",
+        "origemInformacao": "CREDITO_DIGITAL",
+        "prefixoAgencia": "3027",
+        "codigoModalidade": "A04",
+        "numeroContrato": "1000008355",
+        "identificacaoCliente": "44655802820",
+        "nomeCliente": "JULIANA SANTOS FERREIRA",
+        "dataRemessa": [
+            2021,
+            10,
+            8
+        ],
+        "numeroRemessa": "77"
+    },
+    "cartaoCreditoDetalhe": null,
+    "consorcioDetalhe": null,
+    "creditoParceladoDetalhe": {
+        "dataVencimentoUltimaParcela": "2020-04-07",
+        "valorContratadoFuturo": "73488",
+        "quantidadeParcelas": 12,
+        "dataRemessa": "2021-10-08",
+        "dataApuracao": "2021-10-06",
+        "listaParcelasAnteriores": [
+            {
+                "dataVencimentoParcelaAnterior": "2020-04-07",
+                "valorParcelaAnterior": "8233",
+                "dataPagamentoParcelaAnterior": "2021-09-06",
+                "valorPagamentoParcelaAnterior": "8233"
+            },
+            {
+                "dataVencimentoParcelaAnterior": "2020-03-07",
+                "valorParcelaAnterior": "8233",
+                "dataPagamentoParcelaAnterior": "2021-09-06",
+                "valorPagamentoParcelaAnterior": "8233"
+            },
+            {
+                "dataVencimentoParcelaAnterior": "2020-02-07",
+                "valorParcelaAnterior": "8233",
+                "dataPagamentoParcelaAnterior": "2021-09-06",
+                "valorPagamentoParcelaAnterior": "8233"
+            },
+            {
+                "dataVencimentoParcelaAnterior": "2020-01-07",
+                "valorParcelaAnterior": "8233",
+                "dataPagamentoParcelaAnterior": "2021-09-06",
+                "valorPagamentoParcelaAnterior": "8233"
+            },
+            {
+                "dataVencimentoParcelaAnterior": "2019-12-07",
+                "valorParcelaAnterior": "8233",
+                "dataPagamentoParcelaAnterior": "2021-09-06",
+                "valorPagamentoParcelaAnterior": "8233"
+            },
+            {
+                "dataVencimentoParcelaAnterior": "2019-11-07",
+                "valorParcelaAnterior": "8233",
+                "dataPagamentoParcelaAnterior": "2021-09-06",
+                "valorPagamentoParcelaAnterior": "8233"
+            },
+            {
+                "dataVencimentoParcelaAnterior": "2019-10-07",
+                "valorParcelaAnterior": "8233",
+                "dataPagamentoParcelaAnterior": "2021-09-06",
+                "valorPagamentoParcelaAnterior": "8233"
+            },
+            {
+                "dataVencimentoParcelaAnterior": "2019-09-07",
+                "valorParcelaAnterior": "8233",
+                "dataPagamentoParcelaAnterior": "2021-09-06",
+                "valorPagamentoParcelaAnterior": "8233"
+            },
+            {
+                "dataVencimentoParcelaAnterior": "2019-08-07",
+                "valorParcelaAnterior": "8233",
+                "dataPagamentoParcelaAnterior": "2020-10-30",
+                "valorPagamentoParcelaAnterior": "8233"
+            }
+        ],
+        "listaParcelasAvulsas": [],
+        "parcelasFuturas": {
+            "dataVencimentoProximaParcela": null,
+            "valorProximaParcela": null,
+            "quantidadeParcelasAVencer": 0,
+            "quantidadeParcelasAPagar": 0,
+            "periodicidadeParcelaFutura": "M"
+        }
+    },
+    "rotativoDetalhe": null
+}

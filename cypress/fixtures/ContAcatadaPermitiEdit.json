@@ -1,0 +1,49 @@
+{
+    "content": [
+        {
+            "identificadorSequencialContestacao": 1200138,
+            "tipoCliente": "1",
+            "identificacaoCliente": "39439614862",
+            "detalhamentoIdentificacaoCliente": "39439614862",
+            "prefixoAgencia": "704",
+            "numeroContrato": "F481303",
+            "detalhamentoPrefixoAgencia": "704",
+            "detalhamentoNumeroContrato": "F481303",
+            "tipoContestacao": "O",
+            "dataAcolhimento": "2021-07-03",
+            "nomeCliente": "ANDERSON ALVES DA HORA",
+            "codigoModalidade": "E01",
+            "codigoOcorrencia": "7",
+            "origemInformacao": "ROTATIVO_CONTA_CORRENTE_LEGADO",
+            "nomeGbd": "SERASA",
+            "dataEnvio": "2021-07-09@13:38",
+            "dataResposta": "2021-08-10@14:55",
+            "naoPodeEditar": false
+        }
+    ],
+    "pageable": {
+        "sort": {
+            "sorted": false,
+            "unsorted": true,
+            "empty": true
+        },
+        "pageSize": 10,
+        "pageNumber": 0,
+        "offset": 0,
+        "paged": true,
+        "unpaged": false
+    },
+    "last": true,
+    "totalPages": 1,
+    "totalElements": 1,
+    "first": true,
+    "sort": {
+        "sorted": false,
+        "unsorted": true,
+        "empty": true
+    },
+    "size": 10,
+    "number": 0,
+    "numberOfElements": 1,
+    "empty": false
+}

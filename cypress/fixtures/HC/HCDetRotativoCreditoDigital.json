@@ -1,0 +1,65 @@
+{
+    "detalhe": {
+        "tipoCliente": "1",
+        "origemInformacao": "ROTATIVO_CREDITO_DIGITAL",
+        "prefixoAgencia": "226",
+        "codigoModalidade": "E01",
+        "numeroContrato": "DIG10833",
+        "identificacaoCliente": "3934069037",
+        "nomeCliente": "ELIANE DE CASSIA DE SILVA DOS SANTOS",
+        "dataRemessa": [
+            2021,
+            8,
+            3
+        ],
+        "numeroRemessa": "41"
+    },
+    "cartaoCreditoDetalhe": null,
+    "consorcioDetalhe": null,
+    "creditoParceladoDetalhe": null,
+    "rotativoDetalhe": {
+        "dataVencimentoOperacao": "2021-10-06",
+        "dataRemessa": "2021-08-03",
+        "dataApuracao": "2021-07-28",
+        "listaParcelasAnteriores": [
+            {
+                "dataFechamentoAnterior": "2021-07-31",
+                "saldoUtilizadoFechamentoAnterior": "79117"
+            },
+            {
+                "dataFechamentoAnterior": "2021-07-31",
+                "saldoUtilizadoFechamentoAnterior": "79117"
+            },
+            {
+                "dataFechamentoAnterior": "2021-06-30",
+                "saldoUtilizadoFechamentoAnterior": "77728"
+            },
+            {
+                "dataFechamentoAnterior": "2021-06-30",
+                "saldoUtilizadoFechamentoAnterior": "77728"
+            },
+            {
+                "dataFechamentoAnterior": "2021-05-31",
+                "saldoUtilizadoFechamentoAnterior": "78184"
+            },
+            {
+                "dataFechamentoAnterior": "2021-05-31",
+                "saldoUtilizadoFechamentoAnterior": "78184"
+            },
+            {
+                "dataFechamentoAnterior": "2021-04-30",
+                "saldoUtilizadoFechamentoAnterior": "49650"
+            },
+            {
+                "dataFechamentoAnterior": "2021-04-30",
+                "saldoUtilizadoFechamentoAnterior": "49650"
+            }
+        ],
+        "listaParcelasAtuais": [
+            {
+                "dataFechamentoAtual": "2021-07-31",
+                "saldoUtilizadoFechamentoAtual": "79117"
+            }
+        ]
+    }
+}

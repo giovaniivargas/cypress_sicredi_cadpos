@@ -1,0 +1,55 @@
+{
+    "detalhe": {
+        "identificadorSequencialContestacao": 4,
+        "nomeCliente": "ANDREBIS HENKE DA SILVA",
+        "prefixoAgencia": "651",
+        "detalhamentoPrefixoAgencia": "651",
+        "detalhamentoNumeroContrato": "1208375",
+        "numeroContrato": "1208375",
+        "codigoModalidade": "C01",
+        "identificacaoCliente": "00637877098",
+        "detalhamentoIdentificacaoCliente": "00637877098",
+        "tipoCliente": "1",
+        "justificativaContestacao": "S04|Consorcio|Contrato pago consta parcela em aberto|07/2022|06/2022|05/2022",
+        "codigoOcorrencia": "8",
+        "observacaoContestacao": "As parcelas de maio, junho e julho foram paga em dia e a cota está sem parcelas pendentes de pagamento, portanto adimplente.",
+        "tipoContestacao": "O",
+        "numeroRemessa": "201",
+        "dataAcolhimento": "2022-07-19",
+        "nomeGbd": "SERASA",
+        "origemInformacao": "CONSORCIO_LEGADO",
+        "dataRemessa": "2022-07-25",
+        "dataApuracao": null,
+        "dataResposta": "2022-07-25 12:13",
+        "ldapUserAtualizacao": "remo_wilke"
+    },
+    "cartaoCreditoDetalhe": null,
+    "consorcioDetalhe": {
+        "situacaoCota": "1",
+        "valorObrigacaoContratado": "4000000",
+        "dataVencimentoUltimaParcelaConsorcio": "2030-08-12",
+        "quantidadeParcelasCotaConsorcio": "100",
+        "saldoDevedorCotaConsorcio": "4345595",
+        "dataContemplacaoCotaConsorcio": null,
+        "dataRemessa": "2022-07-25",
+        "dataApuracao": "2022-07-19",
+        "listaParcelasAnteriores": [
+            {
+                "dataVencimentoParcelaAnteriorConsorcio": "2022-06-13",
+                "valorParcelaAnteriorConsorcio": "47221",
+                "dataPagamentoParcelaAnteriorConsorcio": "2022-06-13",
+                "valorPagamentoParcelaAnteriorConsorcio": "47217"
+            }
+        ],
+        "listaParcelasAvulsas": [],
+        "parcelasFuturas": {
+            "dataVencimentoProximaParcelaConsorcio": "2022-08-12",
+            "valorProximaParcelaConsorcio": "47196",
+            "quantidadeParcelasAVencerConsorcio": "97",
+            "quantidadeParcelasAPagarCotaConsorcio": "97",
+            "periodicidadeParcelaFuturaConsorcio": "M"
+        }
+    },
+    "creditoParceladoDetalhe": null,
+    "rotativoDetalhe": null
+}

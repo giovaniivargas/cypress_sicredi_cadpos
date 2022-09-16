@@ -1,0 +1,89 @@
+{
+    "principal": null,
+    "contatos": [
+        {
+            "id": 5600001,
+            "cnpj": "04490531000160",
+            "nome": "Elen Filappi",
+            "email": "elen_filappi@sicredi.com.br",
+            "departamento": "Sistemas BI Risco e Modelagem",
+            "cargo": "Analista de Sistemas",
+            "ddd": "51",
+            "telefone": "33589836",
+            "ramal": "9836",
+            "situacao": "ATIVO",
+            "state": false,
+            "statusEnvio": "INATIVO"
+        },
+        {
+            "id": 5000006,
+            "cnpj": "04490531000160",
+            "nome": "Cassio Socal Cervo",
+            "email": "cassio_cervo@sicredi.com.br",
+            "departamento": "Sistemas BI Risco e Modelagem",
+            "cargo": "Gerente de Sistemas",
+            "ddd": "51",
+            "telefone": "33588862",
+            "ramal": "8862",
+            "situacao": "INATIVO",
+            "state": false,
+            "statusEnvio": "INATIVO"
+        },
+        {
+            "id": 33700002,
+            "cnpj": "04490531000160",
+            "nome": "ROBERTO DE FRANCE MOREIRA JUNIOR",
+            "email": "roberto_france@sicredi.com.br",
+            "departamento": "Risco de Crédito",
+            "cargo": "Analista de Risco de Crédito",
+            "ddd": "51",
+            "telefone": "33589799",
+            "ramal": "9799",
+            "situacao": "ATIVO",
+            "state": false,
+            "statusEnvio": "INATIVO"
+        },
+        {
+            "id": 7700002,
+            "cnpj": "04490531000160",
+            "nome": "Andrea da Costa Leite",
+            "email": "andrea_leite@sicredi.com.br",
+            "departamento": "Sistemas BI Risco e Modelagem",
+            "cargo": "Líder de Projetos de TI",
+            "ddd": "51",
+            "telefone": "33589799",
+            "ramal": "9799",
+            "situacao": "ATIVO",
+            "state": false,
+            "statusEnvio": "INATIVO"
+        },
+        {
+            "id": 39900006,
+            "cnpj": "04490531000160",
+            "nome": "Elen Filappi",
+            "email": "elen_filappi@sicredi.com.br",
+            "departamento": "Sistemas BI Risco e Modelagem",
+            "cargo": "Analista de Sistemas",
+            "ddd": "51",
+            "telefone": "33589836",
+            "ramal": "9836",
+            "situacao": "INATIVO",
+            "state": false,
+            "statusEnvio": "INATIVO"
+        },
+        {
+            "id": 26000006,
+            "cnpj": "04490531000160",
+            "nome": "Andrea da Costa Leite",
+            "email": "andrea_leite@sicredi.com.br",
+            "departamento": "Sistemas BI Risco e Modelagem",
+            "cargo": "Líder de Projetos de TI",
+            "ddd": "51",
+            "telefone": "33589799",
+            "ramal": "9799",
+            "situacao": "INATIVO",
+            "state": false,
+            "statusEnvio": "INATIVO"
+        }
+    ]
+}

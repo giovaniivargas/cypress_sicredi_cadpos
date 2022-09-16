@@ -1,0 +1,165 @@
+{
+    "content": [
+        {
+            "codigo": "CARTOES_DIGITAL",
+            "descricao": "Cartões Digital",
+            "grupo": [
+                {
+                    "grupo": "cadpos_adm"
+                },
+                {
+                    "grupo": "cadpos_cartao_credito"
+                },
+                {
+                    "grupo": "cadpos_digital"
+                }
+            ]
+        },
+        {
+            "codigo": "CARTOES_PF_LEGADO",
+            "descricao": "Cartões PF Legado",
+            "grupo": [
+                {
+                    "grupo": "cadpos_adm"
+                },
+                {
+                    "grupo": "cadpos_cartao_credito"
+                }
+            ]
+        },
+        {
+            "codigo": "CARTOES_PJ_LEGADO",
+            "descricao": "Cartões PJ Legado",
+            "grupo": [
+                {
+                    "grupo": "cadpos_adm"
+                },
+                {
+                    "grupo": "cadpos_cartao_credito"
+                }
+            ]
+        },
+        {
+            "codigo": "CHANGE_LEGADO",
+            "descricao": "Change Legado",
+            "grupo": [
+                {
+                    "grupo": "cadpos_adm"
+                },
+                {
+                    "grupo": "cadpos_cambio"
+                }
+            ]
+        },
+        {
+            "codigo": "CONSIGNADO",
+            "descricao": "Consignado",
+            "grupo": [
+                {
+                    "grupo": "cadpos_adm"
+                },
+                {
+                    "grupo": "cadpos_consignado"
+                }
+            ]
+        },
+        {
+            "codigo": "CONSORCIO_LEGADO",
+            "descricao": "Consórcio Legado",
+            "grupo": [
+                {
+                    "grupo": "cadpos_adm"
+                },
+                {
+                    "grupo": "cadpos_consorcio"
+                }
+            ]
+        },
+        {
+            "codigo": "CREDITO_DIGITAL",
+            "descricao": "Crédito Digital",
+            "grupo": [
+                {
+                    "grupo": "cadpos_adm"
+                },
+                {
+                    "grupo": "cadpos_digital"
+                }
+            ]
+        },
+        {
+            "codigo": "CREDITO_LEGADO",
+            "descricao": "Crédito Legado",
+            "grupo": [
+                {
+                    "grupo": "cadpos_adm"
+                },
+                {
+                    "grupo": "cadpos_credito"
+                }
+            ]
+        },
+        {
+            "codigo": "IMOBILIARIO_LEGADO",
+            "descricao": "Imobiliário Legado",
+            "grupo": [
+                {
+                    "grupo": "cadpos_adm"
+                },
+                {
+                    "grupo": "cadpos_imobiliario"
+                }
+            ]
+        },
+        {
+            "codigo": "ROTATIVO_CONTA_CORRENTE_LEGADO",
+            "descricao": "Rotativo Conta Corrente Legado",
+            "grupo": [
+                {
+                    "grupo": "cadpos_adm"
+                },
+                {
+                    "grupo": "cadpos_conta_corrente"
+                }
+            ]
+        },
+        {
+            "codigo": "ROTATIVO_CREDITO_DIGITAL",
+            "descricao": "Rotativo Crédito Digital",
+            "grupo": [
+                {
+                    "grupo": "cadpos_adm"
+                },
+                {
+                    "grupo": "cadpos_digital"
+                }
+            ]
+        },
+        {
+            "codigo": "ROTATIVO_CREDITO_LEGADO",
+            "descricao": "Rotativo Crédito Legado",
+            "grupo": [
+                {
+                    "grupo": "cadpos_adm"
+                },
+                {
+                    "grupo": "cadpos_credito"
+                }
+            ]
+        }
+    ],
+    "pageable": "INSTANCE",
+    "totalPages": 1,
+    "totalElements": 12,
+    "last": true,
+    "first": true,
+    "sort": {
+        "sorted": false,
+        "unsorted": true,
+        "empty": true
+    },
+    "numberOfElements": 12,
+    "size": 0,
+    "number": 0,
+    "empty": false
+}

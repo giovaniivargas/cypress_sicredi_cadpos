@@ -1,0 +1,31 @@
+{
+    "principal": null,
+    "contatos": [
+        {
+            "id": 2300002,
+            "cnpj": "04490531000160",
+            "nome": "Ana Caroline Gauze de Assis",
+            "cpf": "02863298089",
+            "ddd": "51",
+            "telefone": "33588492",
+            "ramal": "8492",
+            "email": "ana_gauze@sicredi.com.br",
+            "situacao": "ATIVO",
+            "state": false,
+            "statusEnvio": "INATIVO"
+        },
+        {
+            "id": 14300001,
+            "cnpj": "04490531000160",
+            "nome": "Glaucia Pires Dutra",
+            "cpf": "92328016049",
+            "ddd": "51",
+            "telefone": "33584787",
+            "ramal": "4787",
+            "email": "glaucia_dutra@sicredi.com.br",
+            "situacao": "ATIVO",
+            "state": false,
+            "statusEnvio": "INATIVO"
+        }
+    ]
+}

@@ -1,0 +1,59 @@
+{
+    "totalContestacoesMesAtual": 18,
+    "totalContestacoesRespondidas": 9,
+    "percentualDoTotalDeContestacoesRespondidas": 50.0,
+    "qtdDentroPrazo": 2,
+    "qtdForaPrazo": 3,
+    "foraDentroPrazo": [
+        {
+            "total": 1,
+            "origemInformacao": "CREDITO_DIGITAL",
+            "dataAcolhimento": [
+                2021,
+                9,
+                28
+            ],
+            "dentroDoPrazo": false
+        },
+        {
+            "total": 1,
+            "origemInformacao": "ROTATIVO_CONTA_CORRENTE_LEGADO",
+            "dataAcolhimento": [
+                2021,
+                11,
+                27
+            ],
+            "dentroDoPrazo": false
+        },
+        {
+            "total": 1,
+            "origemInformacao": null,
+            "dataAcolhimento": [
+                2022,
+                1,
+                10
+            ],
+            "dentroDoPrazo": false
+        },
+        {
+            "total": 1,
+            "origemInformacao": "CARTOES_DIGITAL",
+            "dataAcolhimento": [
+                2022,
+                1,
+                20
+            ],
+            "dentroDoPrazo": true
+        },
+        {
+            "total": 1,
+            "origemInformacao": "CARTOES_DIGITAL",
+            "dataAcolhimento": [
+                2022,
+                1,
+                24
+            ],
+            "dentroDoPrazo": true
+        }
+    ]
+}

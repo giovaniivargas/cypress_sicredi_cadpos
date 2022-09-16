@@ -1,0 +1,107 @@
+{
+    "detalhe": {
+        "dataRemessa": "2021-10-15",
+        "numeroRemessa": "78",
+        "prefixoAgencia": "1504",
+        "identificacaoCliente": "3578142905",
+        "tipoCliente": "1",
+        "nomeCliente": "CLEBER SALVADOR",
+        "numeroContrato": "0250008041",
+        "codigoModalidade": "B03",
+        "codigoOcorrenciaCliente": "212",
+        "descricaoOcorrenciaCliente": "O cliente consta na base de cancelados",
+        "origemInformacao": "IMOBILIARIO_LEGADO"
+    },
+    "cartaoCreditoDetalhe": null,
+    "consorcioDetalhe": null,
+    "creditoParceladoDetalhe": {
+        "dataVencimentoUltimaParcela": "2048-11-10",
+        "valorContratadoFuturo": "175000",
+        "quantidadeParcelas": 360,
+        "dataRemessa": "2021-10-15",
+        "dataApuracao": "2021-10-13",
+        "listaParcelasAnteriores": [
+            {
+                "dataVencimentoParcelaAnterior": "2021-10-10",
+                "valorParcelaAnterior": "1383",
+                "dataPagamentoParcelaAnterior": "2021-10-10",
+                "valorPagamentoParcelaAnterior": "1383"
+            },
+            {
+                "dataVencimentoParcelaAnterior": "2021-09-10",
+                "valorParcelaAnterior": "1383",
+                "dataPagamentoParcelaAnterior": "2021-09-10",
+                "valorPagamentoParcelaAnterior": "1383"
+            },
+            {
+                "dataVencimentoParcelaAnterior": "2021-08-10",
+                "valorParcelaAnterior": "1383",
+                "dataPagamentoParcelaAnterior": "2021-08-10",
+                "valorPagamentoParcelaAnterior": "1383"
+            },
+            {
+                "dataVencimentoParcelaAnterior": "2021-07-10",
+                "valorParcelaAnterior": "1384",
+                "dataPagamentoParcelaAnterior": "2021-07-10",
+                "valorPagamentoParcelaAnterior": "1384"
+            },
+            {
+                "dataVencimentoParcelaAnterior": "2021-06-10",
+                "valorParcelaAnterior": "1384",
+                "dataPagamentoParcelaAnterior": "2021-06-10",
+                "valorPagamentoParcelaAnterior": "1384"
+            },
+            {
+                "dataVencimentoParcelaAnterior": "2021-05-10",
+                "valorParcelaAnterior": "1384",
+                "dataPagamentoParcelaAnterior": "2021-05-10",
+                "valorPagamentoParcelaAnterior": "1384"
+            },
+            {
+                "dataVencimentoParcelaAnterior": "2021-04-10",
+                "valorParcelaAnterior": "1384",
+                "dataPagamentoParcelaAnterior": "2021-04-10",
+                "valorPagamentoParcelaAnterior": "1384"
+            },
+            {
+                "dataVencimentoParcelaAnterior": "2021-03-10",
+                "valorParcelaAnterior": "1384",
+                "dataPagamentoParcelaAnterior": "2021-03-10",
+                "valorPagamentoParcelaAnterior": "1384"
+            },
+            {
+                "dataVencimentoParcelaAnterior": "2021-02-10",
+                "valorParcelaAnterior": "1384",
+                "dataPagamentoParcelaAnterior": "2021-02-10",
+                "valorPagamentoParcelaAnterior": "1384"
+            },
+            {
+                "dataVencimentoParcelaAnterior": "2021-01-10",
+                "valorParcelaAnterior": "1384",
+                "dataPagamentoParcelaAnterior": "2021-01-10",
+                "valorPagamentoParcelaAnterior": "1384"
+            },
+            {
+                "dataVencimentoParcelaAnterior": "2020-12-10",
+                "valorParcelaAnterior": "1384",
+                "dataPagamentoParcelaAnterior": "2020-12-10",
+                "valorPagamentoParcelaAnterior": "1384"
+            },
+            {
+                "dataVencimentoParcelaAnterior": "2020-11-10",
+                "valorParcelaAnterior": "1384",
+                "dataPagamentoParcelaAnterior": "2020-11-10",
+                "valorPagamentoParcelaAnterior": "1384"
+            }
+        ],
+        "listaParcelasAvulsas": [],
+        "parcelasFuturas": {
+            "dataVencimentoProximaParcela": "2021-11-10",
+            "valorProximaParcela": "1383",
+            "quantidadeParcelasAVencer": 325,
+            "quantidadeParcelasAPagar": 325,
+            "periodicidadeParcelaFutura": "M"
+        }
+    },
+    "rotativoDetalhe": null
+}

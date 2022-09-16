@@ -1,0 +1,46 @@
+{
+    "contestacaoDetalhe": {
+        "identificadorSequencialContestacao": 100800022,
+        "nomeCliente": "RODRIGO BOSIO DA SILVA",
+        "prefixoAgencia": "710",
+        "detalhamentoPrefixoAgencia": "710",
+        "detalhamentoNumeroContrato": "A096168",
+        "numeroContrato": "A096168",
+        "codigoModalidade": "E02",
+        "identificacaoCliente": "08767633951",
+        "detalhamentoIdentificacaoCliente": "08767633951",
+        "tipoCliente": "1",
+        "justificativaContestacao": "R01|OUTROS ROTATIVOS|NAO RECONHECO ESSE CONTRATO",
+        "codigoOcorrencia": "0",
+        "observacaoContestacao": "EM ANALISE",
+        "tipoContestacao": "O",
+        "numeroRemessa": "190",
+        "dataAcolhimento": "2022-07-07",
+        "nomeGbd": "BOA_VISTA",
+        "origemInformacao": "ROTATIVO_CONTA_CORRENTE_LEGADO",
+        "dataRemessa": "2022-07-11",
+        "dataApuracao": null,
+        "dataResposta": null,
+        "ldapUserAtualizacao": null
+    },
+    "cartaoCreditoDetalhe": null,
+    "consorcioDetalhe": null,
+    "creditoParceladoDetalhe": null,
+    "rotativoDetalhe": {
+        "dataVencimentoOperacao": "2022-02-07",
+        "dataRemessa": "2022-02-14",
+        "dataApuracao": "2022-02-07",
+        "listaParcelasAnteriores": [
+            {
+                "dataFechamentoAnterior": "2022-01-31",
+                "saldoUtilizadoFechamentoAnterior": "0"
+            }
+        ],
+        "listaParcelasAtuais": [
+            {
+                "dataFechamentoAtual": "2022-02-07",
+                "saldoUtilizadoFechamentoAtual": "892"
+            }
+        ]
+    }
+}

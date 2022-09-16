@@ -1,0 +1,124 @@
+{
+    "contestacaoDetalhe": {
+        "identificadorSequencialContestacao": 26000017,
+        "nomeCliente": "PATRICIA DE SOUZA INACIO",
+        "prefixoAgencia": "737",
+        "detalhamentoPrefixoAgencia": "737",
+        "detalhamentoNumeroContrato": "B840313983",
+        "numeroContrato": "B840313983",
+        "codigoModalidade": "B05",
+        "identificacaoCliente": "36295341802",
+        "detalhamentoIdentificacaoCliente": "36295341802",
+        "tipoCliente": "1",
+        "justificativaContestacao": "P06|PARCELADO|QUANTIDADE DE PARCELAS PAGAS DIVERGENTES|9",
+        "codigoOcorrencia": "0",
+        "observacaoContestacao": "EM ANALISE",
+        "tipoContestacao": "O",
+        "numeroRemessa": "288",
+        "dataAcolhimento": "2020-04-21",
+        "nomeGbd": "BOA_VISTA",
+        "origemInformacao": "CREDITO_LEGADO",
+        "dataRemessa": "2022-01-12",
+        "dataApuracao": null,
+        "dataResposta": null,
+        "ldapUserAtualizacao": null
+    },
+    "cartaoCreditoDetalhe": null,
+    "consorcioDetalhe": null,
+    "creditoParceladoDetalhe": {
+        "dataVencimentoUltimaParcela": "2022-10-05",
+        "valorContratadoFuturo": "2724912",
+        "quantidadeParcelas": 48,
+        "dataRemessa": "2022-04-18",
+        "dataApuracao": "2021-11-17",
+        "listaParcelasAnteriores": [
+            {
+                "dataVencimentoParcelaAnterior": "2021-11-05",
+                "valorParcelaAnterior": "64331",
+                "dataPagamentoParcelaAnterior": null,
+                "valorPagamentoParcelaAnterior": "0"
+            },
+            {
+                "dataVencimentoParcelaAnterior": "2021-10-05",
+                "valorParcelaAnterior": "64984",
+                "dataPagamentoParcelaAnterior": null,
+                "valorPagamentoParcelaAnterior": "0"
+            },
+            {
+                "dataVencimentoParcelaAnterior": "2021-09-05",
+                "valorParcelaAnterior": "65623",
+                "dataPagamentoParcelaAnterior": null,
+                "valorPagamentoParcelaAnterior": "0"
+            },
+            {
+                "dataVencimentoParcelaAnterior": "2021-08-05",
+                "valorParcelaAnterior": "66290",
+                "dataPagamentoParcelaAnterior": null,
+                "valorPagamentoParcelaAnterior": "0"
+            },
+            {
+                "dataVencimentoParcelaAnterior": "2021-07-05",
+                "valorParcelaAnterior": "66964",
+                "dataPagamentoParcelaAnterior": null,
+                "valorPagamentoParcelaAnterior": "0"
+            },
+            {
+                "dataVencimentoParcelaAnterior": "2021-06-05",
+                "valorParcelaAnterior": "67622",
+                "dataPagamentoParcelaAnterior": null,
+                "valorPagamentoParcelaAnterior": "0"
+            },
+            {
+                "dataVencimentoParcelaAnterior": "2021-05-05",
+                "valorParcelaAnterior": "68309",
+                "dataPagamentoParcelaAnterior": null,
+                "valorPagamentoParcelaAnterior": "0"
+            },
+            {
+                "dataVencimentoParcelaAnterior": "2021-04-05",
+                "valorParcelaAnterior": "68981",
+                "dataPagamentoParcelaAnterior": null,
+                "valorPagamentoParcelaAnterior": "0"
+            },
+            {
+                "dataVencimentoParcelaAnterior": "2021-03-05",
+                "valorParcelaAnterior": "72094",
+                "dataPagamentoParcelaAnterior": null,
+                "valorPagamentoParcelaAnterior": "0"
+            },
+            {
+                "dataVencimentoParcelaAnterior": "2021-02-05",
+                "valorParcelaAnterior": "73921",
+                "dataPagamentoParcelaAnterior": null,
+                "valorPagamentoParcelaAnterior": "0"
+            },
+            {
+                "dataVencimentoParcelaAnterior": "2021-01-05",
+                "valorParcelaAnterior": "76000",
+                "dataPagamentoParcelaAnterior": null,
+                "valorPagamentoParcelaAnterior": "0"
+            },
+            {
+                "dataVencimentoParcelaAnterior": "2020-12-05",
+                "valorParcelaAnterior": "77999",
+                "dataPagamentoParcelaAnterior": null,
+                "valorPagamentoParcelaAnterior": "0"
+            },
+            {
+                "dataVencimentoParcelaAnterior": "2020-11-05",
+                "valorParcelaAnterior": "80264",
+                "dataPagamentoParcelaAnterior": null,
+                "valorPagamentoParcelaAnterior": "0"
+            }
+        ],
+        "listaParcelasAvulsas": [],
+        "parcelasFuturas": {
+            "dataVencimentoProximaParcela": null,
+            "valorProximaParcela": null,
+            "quantidadeParcelasAVencer": 0,
+            "quantidadeParcelasAPagar": 32,
+            "periodicidadeParcelaFutura": "M"
+        }
+    },
+    "rotativoDetalhe": null
+}

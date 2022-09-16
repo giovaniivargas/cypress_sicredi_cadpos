@@ -1,0 +1,89 @@
+{
+    "detalhe": {
+        "dataRemessa": "2021-10-08",
+        "numeroRemessa": "77",
+        "prefixoAgencia": "3022",
+        "identificacaoCliente": "9341151848",
+        "tipoCliente": "1",
+        "nomeCliente": "JOSE EDUARDO GOBIS DE CASTRO",
+        "numeroContrato": "1000010321",
+        "codigoModalidade": "A04",
+        "codigoOcorrenciaCliente": "211",
+        "descricaoOcorrenciaCliente": "Parcela futura não informada",
+        "origemInformacao": "CREDITO_DIGITAL"
+    },
+    "cartaoCreditoDetalhe": null,
+    "consorcioDetalhe": null,
+    "creditoParceladoDetalhe": {
+        "dataVencimentoUltimaParcela": "2021-03-18",
+        "valorContratadoFuturo": "189642",
+        "quantidadeParcelas": 24,
+        "dataRemessa": "2021-10-08",
+        "dataApuracao": "2021-10-06",
+        "listaParcelasAnteriores": [
+            {
+                "dataVencimentoParcelaAnterior": "2021-03-18",
+                "valorParcelaAnterior": "13048",
+                "dataPagamentoParcelaAnterior": "9999-12-31",
+                "valorPagamentoParcelaAnterior": "0"
+            },
+            {
+                "dataVencimentoParcelaAnterior": "2021-02-18",
+                "valorParcelaAnterior": "13048",
+                "dataPagamentoParcelaAnterior": "9999-12-31",
+                "valorPagamentoParcelaAnterior": "0"
+            },
+            {
+                "dataVencimentoParcelaAnterior": "2021-01-18",
+                "valorParcelaAnterior": "13048",
+                "dataPagamentoParcelaAnterior": "9999-12-31",
+                "valorPagamentoParcelaAnterior": "0"
+            },
+            {
+                "dataVencimentoParcelaAnterior": "2020-12-18",
+                "valorParcelaAnterior": "13048",
+                "dataPagamentoParcelaAnterior": "9999-12-31",
+                "valorPagamentoParcelaAnterior": "0"
+            },
+            {
+                "dataVencimentoParcelaAnterior": "2020-11-18",
+                "valorParcelaAnterior": "13048",
+                "dataPagamentoParcelaAnterior": "9999-12-31",
+                "valorPagamentoParcelaAnterior": "0"
+            },
+            {
+                "dataVencimentoParcelaAnterior": "2020-10-18",
+                "valorParcelaAnterior": "13048",
+                "dataPagamentoParcelaAnterior": "2020-11-11",
+                "valorPagamentoParcelaAnterior": "13048"
+            },
+            {
+                "dataVencimentoParcelaAnterior": "2020-09-18",
+                "valorParcelaAnterior": "13048",
+                "dataPagamentoParcelaAnterior": "2020-11-11",
+                "valorPagamentoParcelaAnterior": "13048"
+            },
+            {
+                "dataVencimentoParcelaAnterior": "2020-08-18",
+                "valorParcelaAnterior": "13048",
+                "dataPagamentoParcelaAnterior": "2020-11-11",
+                "valorPagamentoParcelaAnterior": "13048"
+            },
+            {
+                "dataVencimentoParcelaAnterior": "2020-07-18",
+                "valorParcelaAnterior": "13048",
+                "dataPagamentoParcelaAnterior": "2020-11-11",
+                "valorPagamentoParcelaAnterior": "13048"
+            },
+            {
+                "dataVencimentoParcelaAnterior": "2020-06-18",
+                "valorParcelaAnterior": "13048",
+                "dataPagamentoParcelaAnterior": "2020-11-11",
+                "valorPagamentoParcelaAnterior": "13048"
+            }
+        ],
+        "listaParcelasAvulsas": [],
+        "parcelasFuturas": null
+    },
+    "rotativoDetalhe": null
+}

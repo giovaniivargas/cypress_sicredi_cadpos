@@ -1,0 +1,47 @@
+{
+    "detalhe": {
+        "dataRemessa": "2021-10-08",
+        "numeroRemessa": "77",
+        "prefixoAgencia": "731",
+        "identificacaoCliente": "76093731000190",
+        "tipoCliente": "2",
+        "nomeCliente": "COPACOL COOPERATIVA AGROINDUSTRIAL CONSOLATA",
+        "numeroContrato": "B907208782",
+        "codigoModalidade": "B01",
+        "codigoOcorrenciaCliente": "212",
+        "descricaoOcorrenciaCliente": "O cliente consta na base de cancelados",
+        "origemInformacao": "CREDITO_LEGADO"
+    },
+    "cartaoCreditoDetalhe": null,
+    "consorcioDetalhe": null,
+    "creditoParceladoDetalhe": {
+        "dataVencimentoUltimaParcela": "2024-11-25",
+        "valorContratadoFuturo": "500000000",
+        "quantidadeParcelas": 10,
+        "dataRemessa": "2021-10-08",
+        "dataApuracao": "2021-10-05",
+        "listaParcelasAnteriores": [
+            {
+                "dataVencimentoParcelaAnterior": "2021-05-25",
+                "valorParcelaAnterior": "55669294",
+                "dataPagamentoParcelaAnterior": "2021-05-25",
+                "valorPagamentoParcelaAnterior": "55669294"
+            },
+            {
+                "dataVencimentoParcelaAnterior": "2020-11-25",
+                "valorParcelaAnterior": "53709180",
+                "dataPagamentoParcelaAnterior": "2020-11-25",
+                "valorPagamentoParcelaAnterior": "53709180"
+            }
+        ],
+        "listaParcelasAvulsas": [],
+        "parcelasFuturas": {
+            "dataVencimentoProximaParcela": "2021-11-25",
+            "valorProximaParcela": "57065234",
+            "quantidadeParcelasAVencer": 7,
+            "quantidadeParcelasAPagar": 7,
+            "periodicidadeParcelaFutura": "E"
+        }
+    },
+    "rotativoDetalhe": null
+}

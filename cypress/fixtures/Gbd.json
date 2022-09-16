@@ -1,0 +1,38 @@
+{
+    "content": [
+        {
+            "codigo": "TRANSUNION",
+            "nome": "TRANSUNION"
+        },
+        {
+            "codigo": "SERASA",
+            "nome": "SERASA"
+        },
+        {
+            "codigo": "SPC",
+            "nome": "SPC"
+        },
+        {
+            "codigo": "BOA_VISTA",
+            "nome": "BOA VISTA"
+        },
+        {
+            "codigo": "QUOD",
+            "nome": "QUOD"
+        }
+    ],
+    "pageable": "INSTANCE",
+    "totalPages": 1,
+    "totalElements": 5,
+    "last": true,
+    "first": true,
+    "sort": {
+        "sorted": false,
+        "unsorted": true,
+        "empty": true
+    },
+    "numberOfElements": 5,
+    "size": 0,
+    "number": 0,
+    "empty": false
+}

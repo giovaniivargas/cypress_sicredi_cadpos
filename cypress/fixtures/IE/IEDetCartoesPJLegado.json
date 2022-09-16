@@ -1,0 +1,32 @@
+{
+    "detalhe": {
+        "dataRemessa": "2021-10-08",
+        "numeroRemessa": "77",
+        "prefixoAgencia": "731",
+        "identificacaoCliente": "76093731000190",
+        "tipoCliente": "2",
+        "nomeCliente": "COPACOL COOPERATIVA AGROINDUSTRIAL CONSOLATA",
+        "numeroContrato": "4960452842850110",
+        "codigoModalidade": "D01",
+        "codigoOcorrenciaCliente": "212",
+        "descricaoOcorrenciaCliente": "O cliente consta na base de cancelados",
+        "origemInformacao": "CARTOES_PJ_LEGADO"
+    },
+    "cartaoCreditoDetalhe": {
+        "numeroPlasticoCartao": "110",
+        "saldoDevedor": "62000",
+        "dataRemessa": "2021-10-08",
+        "dataApuracao": "2021-10-07",
+        "listaParcelasAnteriores": [],
+        "listaParcelasFuturas": [
+            {
+                "dataVencimentoFaturaFechamentoFutura": "2021-10-18",
+                "valorTotalPagamentoFaturaFechamentoFutura": "62000",
+                "valorMinimoPagamentoFaturaFechamentoFutura": "9300"
+            }
+        ]
+    },
+    "consorcioDetalhe": null,
+    "creditoParceladoDetalhe": null,
+    "rotativoDetalhe": null
+}

@@ -1,0 +1,49 @@
+{
+    "content": [
+        {
+            "identificadorSequencialContestacao": 1700411,
+            "tipoCliente": "1",
+            "identificacaoCliente": "29445999843",
+            "detalhamentoIdentificacaoCliente": "29445999843",
+            "prefixoAgencia": null,
+            "numeroContrato": null,
+            "detalhamentoPrefixoAgencia": null,
+            "detalhamentoNumeroContrato": null,
+            "tipoContestacao": "C",
+            "dataAcolhimento": "2021-05-28",
+            "nomeCliente": null,
+            "codigoModalidade": null,
+            "codigoOcorrencia": "5",
+            "origemInformacao": null,
+            "nomeGbd": "QUOD",
+            "dataEnvio": "2021-05-31@17:44",
+            "dataResposta": null,
+            "naoPodeEditar": true
+        }
+    ],
+    "pageable": {
+        "sort": {
+            "sorted": false,
+            "unsorted": true,
+            "empty": true
+        },
+        "pageSize": 10,
+        "pageNumber": 0,
+        "offset": 0,
+        "paged": true,
+        "unpaged": false
+    },
+    "last": true,
+    "totalPages": 1,
+    "totalElements": 1,
+    "first": true,
+    "sort": {
+        "sorted": false,
+        "unsorted": true,
+        "empty": true
+    },
+    "size": 10,
+    "number": 0,
+    "numberOfElements": 1,
+    "empty": false
+}

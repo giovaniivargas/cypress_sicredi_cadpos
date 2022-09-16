@@ -1,0 +1,43 @@
+{
+    "content": [
+        {
+            "identificadorSequencialContestacao": 4,
+            "dataResposta": "2022-07-25",
+            "detalhamentoIdentificacaoCliente": "00637877098",
+            "nomeCliente": "ANDREBIS HENKE DA SILVA",
+            "detalhamentoPrefixoAgencia": "651",
+            "detalhamentoNumeroContrato": "1208375",
+            "codigoOcorrencia": "8",
+            "nomeGbd": "SERASA",
+            "codigoModalidade": "C01",
+            "origemInformacao": "CONSORCIO_LEGADO",
+            "ldapUserAtualizacao": "remo_wilke",
+            "tipoContestacao": "O"
+        }
+    ],
+    "pageable": {
+        "sort": {
+            "sorted": false,
+            "unsorted": true,
+            "empty": true
+        },
+        "pageSize": 10,
+        "pageNumber": 0,
+        "offset": 0,
+        "paged": true,
+        "unpaged": false
+    },
+    "totalPages": 1,
+    "totalElements": 1,
+    "last": true,
+    "first": true,
+    "sort": {
+        "sorted": false,
+        "unsorted": true,
+        "empty": true
+    },
+    "numberOfElements": 1,
+    "size": 10,
+    "number": 0,
+    "empty": false
+}

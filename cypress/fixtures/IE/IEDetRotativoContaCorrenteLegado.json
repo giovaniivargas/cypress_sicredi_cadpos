@@ -1,0 +1,35 @@
+{
+    "detalhe": {
+        "dataRemessa": "2021-10-15",
+        "numeroRemessa": "78",
+        "prefixoAgencia": "307",
+        "identificacaoCliente": "4463286000",
+        "tipoCliente": "1",
+        "nomeCliente": "LUCAS AGUIRRE DE CAMPOS",
+        "numeroContrato": "F763426",
+        "codigoModalidade": "E01",
+        "codigoOcorrenciaCliente": "212",
+        "descricaoOcorrenciaCliente": "O cliente consta na base de cancelados",
+        "origemInformacao": "ROTATIVO_CONTA_CORRENTE_LEGADO"
+    },
+    "cartaoCreditoDetalhe": null,
+    "consorcioDetalhe": null,
+    "creditoParceladoDetalhe": null,
+    "rotativoDetalhe": {
+        "dataVencimentoOperacao": "2021-12-14",
+        "dataRemessa": "2021-10-15",
+        "dataApuracao": "2021-10-10",
+        "listaParcelasAnteriores": [
+            {
+                "dataFechamentoAnterior": "2021-09-30",
+                "saldoUtilizadoFechamentoAnterior": "469"
+            }
+        ],
+        "listaParcelasAtuais": [
+            {
+                "dataFechamentoAtual": "2021-10-10",
+                "saldoUtilizadoFechamentoAtual": "5485"
+            }
+        ]
+    }
+}

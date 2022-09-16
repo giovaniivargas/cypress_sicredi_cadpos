@@ -1,0 +1,49 @@
+{
+    "content": [
+        {
+            "identificadorSequencialContestacao": 1400231,
+            "tipoCliente": "1",
+            "identificacaoCliente": "45089290873",
+            "detalhamentoIdentificacaoCliente": "45089290873",
+            "prefixoAgencia": "718",
+            "numeroContrato": "C185304849",
+            "detalhamentoPrefixoAgencia": "718",
+            "detalhamentoNumeroContrato": "C185304849",
+            "tipoContestacao": "O",
+            "dataAcolhimento": "2021-07-06",
+            "nomeCliente": "LUIS EDUARDO BECKMANN DE OLIVEIRA",
+            "codigoModalidade": "A99",
+            "codigoOcorrencia": "8",
+            "origemInformacao": "CREDITO_LEGADO",
+            "nomeGbd": "SERASA",
+            "dataEnvio": "2021-07-09@13:38",
+            "dataResposta": "2021-08-16@09:20",
+            "naoPodeEditar": false
+        }
+    ],
+    "pageable": {
+        "sort": {
+            "sorted": false,
+            "unsorted": true,
+            "empty": true
+        },
+        "pageSize": 10,
+        "pageNumber": 0,
+        "offset": 0,
+        "paged": true,
+        "unpaged": false
+    },
+    "last": true,
+    "totalPages": 1,
+    "totalElements": 1,
+    "first": true,
+    "sort": {
+        "sorted": false,
+        "unsorted": true,
+        "empty": true
+    },
+    "size": 10,
+    "number": 0,
+    "numberOfElements": 1,
+    "empty": false
+}

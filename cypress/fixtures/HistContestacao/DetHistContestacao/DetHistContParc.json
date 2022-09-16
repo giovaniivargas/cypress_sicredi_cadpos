@@ -1,0 +1,58 @@
+{
+    "detalhe": {
+        "identificadorSequencialContestacao": 113700026,
+        "nomeCliente": "LEANDRO APARECIDO DE OLIVEIRA",
+        "prefixoAgencia": "333",
+        "detalhamentoPrefixoAgencia": "333",
+        "detalhamentoNumeroContrato": "1000118448",
+        "numeroContrato": "1000118448",
+        "codigoModalidade": "A04",
+        "identificacaoCliente": "13404914600",
+        "detalhamentoIdentificacaoCliente": "13404914600",
+        "tipoCliente": "1",
+        "justificativaContestacao": "P01|Parcelado|Nao reconheco esse contrato",
+        "codigoOcorrencia": "8",
+        "observacaoContestacao": "Operação no valor de R$1.050,00 foi contratada e creditada em conta no dia 02/05/22 - identificador 1000118448 - liquidada em 20/07/2022, informações disponibilizadas no cadastro positivo podem ter defasagem na atualização.",
+        "tipoContestacao": "O",
+        "numeroRemessa": "197",
+        "dataAcolhimento": "2022-07-20",
+        "nomeGbd": "SERASA",
+        "origemInformacao": "CREDITO_DIGITAL",
+        "dataRemessa": "2022-07-20",
+        "dataApuracao": null,
+        "dataResposta": "2022-07-21 16:19",
+        "ldapUserAtualizacao": "jessica_ito"
+    },
+    "cartaoCreditoDetalhe": null,
+    "consorcioDetalhe": null,
+    "creditoParceladoDetalhe": {
+        "dataVencimentoUltimaParcela": "2022-07-30",
+        "valorContratadoFuturo": "113246",
+        "quantidadeParcelas": 2,
+        "dataRemessa": "2022-07-14",
+        "dataApuracao": "2022-07-13",
+        "listaParcelasAnteriores": [
+            {
+                "dataVencimentoParcelaAnterior": "2022-06-30",
+                "valorParcelaAnterior": "56916",
+                "dataPagamentoParcelaAnterior": "2022-05-28",
+                "valorPagamentoParcelaAnterior": "56916"
+            },
+            {
+                "dataVencimentoParcelaAnterior": "2022-06-30",
+                "valorParcelaAnterior": "56916",
+                "dataPagamentoParcelaAnterior": "2022-05-28",
+                "valorPagamentoParcelaAnterior": "56916"
+            }
+        ],
+        "listaParcelasAvulsas": [],
+        "parcelasFuturas": {
+            "dataVencimentoProximaParcela": "2022-07-30",
+            "valorProximaParcela": "60164",
+            "quantidadeParcelasAVencer": 1,
+            "quantidadeParcelasAPagar": 1,
+            "periodicidadeParcelaFutura": "M"
+        }
+    },
+    "rotativoDetalhe": null
+}

@@ -1,0 +1,137 @@
+{
+    "detalhe": {
+        "tipoCliente": "1",
+        "origemInformacao": "ROTATIVO_CREDITO_LEGADO",
+        "prefixoAgencia": "333",
+        "codigoModalidade": "E01",
+        "numeroContrato": "B918226048",
+        "identificacaoCliente": "25330080010",
+        "nomeCliente": "RENATO MACEDO DA SILVEIRA",
+        "dataRemessa": [
+            2021,
+            8,
+            3
+        ],
+        "numeroRemessa": "41"
+    },
+    "cartaoCreditoDetalhe": null,
+    "consorcioDetalhe": null,
+    "creditoParceladoDetalhe": null,
+    "rotativoDetalhe": {
+        "dataVencimentoOperacao": "2021-09-05",
+        "dataRemessa": "2021-08-03",
+        "dataApuracao": "2021-08-03",
+        "listaParcelasAnteriores": [
+            {
+                "dataFechamentoAnterior": "2020-10-31",
+                "saldoUtilizadoFechamentoAnterior": "102"
+            },
+            {
+                "dataFechamentoAnterior": "2020-10-31",
+                "saldoUtilizadoFechamentoAnterior": "102"
+            },
+            {
+                "dataFechamentoAnterior": "2020-09-30",
+                "saldoUtilizadoFechamentoAnterior": "102"
+            },
+            {
+                "dataFechamentoAnterior": "2020-09-30",
+                "saldoUtilizadoFechamentoAnterior": "102"
+            },
+            {
+                "dataFechamentoAnterior": "2020-08-31",
+                "saldoUtilizadoFechamentoAnterior": "102"
+            },
+            {
+                "dataFechamentoAnterior": "2020-08-31",
+                "saldoUtilizadoFechamentoAnterior": "102"
+            },
+            {
+                "dataFechamentoAnterior": "2020-07-31",
+                "saldoUtilizadoFechamentoAnterior": "102"
+            },
+            {
+                "dataFechamentoAnterior": "2020-07-31",
+                "saldoUtilizadoFechamentoAnterior": "102"
+            },
+            {
+                "dataFechamentoAnterior": "2020-06-30",
+                "saldoUtilizadoFechamentoAnterior": "102"
+            },
+            {
+                "dataFechamentoAnterior": "2020-06-30",
+                "saldoUtilizadoFechamentoAnterior": "102"
+            },
+            {
+                "dataFechamentoAnterior": "2020-05-31",
+                "saldoUtilizadoFechamentoAnterior": "102"
+            },
+            {
+                "dataFechamentoAnterior": "2020-05-31",
+                "saldoUtilizadoFechamentoAnterior": "102"
+            },
+            {
+                "dataFechamentoAnterior": "2020-04-30",
+                "saldoUtilizadoFechamentoAnterior": "102"
+            },
+            {
+                "dataFechamentoAnterior": "2020-04-30",
+                "saldoUtilizadoFechamentoAnterior": "102"
+            },
+            {
+                "dataFechamentoAnterior": "2020-03-31",
+                "saldoUtilizadoFechamentoAnterior": "102"
+            },
+            {
+                "dataFechamentoAnterior": "2020-03-31",
+                "saldoUtilizadoFechamentoAnterior": "102"
+            },
+            {
+                "dataFechamentoAnterior": "2020-02-29",
+                "saldoUtilizadoFechamentoAnterior": "102"
+            },
+            {
+                "dataFechamentoAnterior": "2020-02-29",
+                "saldoUtilizadoFechamentoAnterior": "102"
+            },
+            {
+                "dataFechamentoAnterior": "2020-01-31",
+                "saldoUtilizadoFechamentoAnterior": "102"
+            },
+            {
+                "dataFechamentoAnterior": "2020-01-31",
+                "saldoUtilizadoFechamentoAnterior": "102"
+            },
+            {
+                "dataFechamentoAnterior": "2019-12-31",
+                "saldoUtilizadoFechamentoAnterior": "102"
+            },
+            {
+                "dataFechamentoAnterior": "2019-12-31",
+                "saldoUtilizadoFechamentoAnterior": "102"
+            },
+            {
+                "dataFechamentoAnterior": "2019-11-30",
+                "saldoUtilizadoFechamentoAnterior": "101"
+            },
+            {
+                "dataFechamentoAnterior": "2019-11-30",
+                "saldoUtilizadoFechamentoAnterior": "101"
+            },
+            {
+                "dataFechamentoAnterior": "2019-10-31",
+                "saldoUtilizadoFechamentoAnterior": "101"
+            },
+            {
+                "dataFechamentoAnterior": "2019-10-31",
+                "saldoUtilizadoFechamentoAnterior": "101"
+            }
+        ],
+        "listaParcelasAtuais": [
+            {
+                "dataFechamentoAtual": "2020-11-03",
+                "saldoUtilizadoFechamentoAtual": "101"
+            }
+        ]
+    }
+}

@@ -1,0 +1,107 @@
+{
+    "detalhe": {
+        "dataRemessa": "2021-10-15",
+        "numeroRemessa": "78",
+        "prefixoAgencia": "1",
+        "identificacaoCliente": "2549700953",
+        "tipoCliente": "1",
+        "nomeCliente": "ELVIO CAMILO MENEGUZZI",
+        "numeroContrato": "7057527",
+        "codigoModalidade": "A01",
+        "codigoOcorrenciaCliente": "212",
+        "descricaoOcorrenciaCliente": "O cliente consta na base de cancelados",
+        "origemInformacao": "CONSIGNADO"
+    },
+    "cartaoCreditoDetalhe": null,
+    "consorcioDetalhe": null,
+    "creditoParceladoDetalhe": {
+        "dataVencimentoUltimaParcela": "2024-06-08",
+        "valorContratadoFuturo": "2047176",
+        "quantidadeParcelas": 72,
+        "dataRemessa": "2021-10-15",
+        "dataApuracao": "2021-10-11",
+        "listaParcelasAnteriores": [
+            {
+                "dataVencimentoParcelaAnterior": "2021-10-08",
+                "valorParcelaAnterior": "28433",
+                "dataPagamentoParcelaAnterior": "2021-10-08",
+                "valorPagamentoParcelaAnterior": "28433"
+            },
+            {
+                "dataVencimentoParcelaAnterior": "2021-09-08",
+                "valorParcelaAnterior": "28433",
+                "dataPagamentoParcelaAnterior": "2021-09-08",
+                "valorPagamentoParcelaAnterior": "28433"
+            },
+            {
+                "dataVencimentoParcelaAnterior": "2021-08-08",
+                "valorParcelaAnterior": "28433",
+                "dataPagamentoParcelaAnterior": "2021-08-08",
+                "valorPagamentoParcelaAnterior": "28433"
+            },
+            {
+                "dataVencimentoParcelaAnterior": "2021-07-08",
+                "valorParcelaAnterior": "28433",
+                "dataPagamentoParcelaAnterior": "2021-07-08",
+                "valorPagamentoParcelaAnterior": "28433"
+            },
+            {
+                "dataVencimentoParcelaAnterior": "2021-06-08",
+                "valorParcelaAnterior": "28433",
+                "dataPagamentoParcelaAnterior": "2021-05-08",
+                "valorPagamentoParcelaAnterior": "28433"
+            },
+            {
+                "dataVencimentoParcelaAnterior": "2021-05-08",
+                "valorParcelaAnterior": "28433",
+                "dataPagamentoParcelaAnterior": "2021-05-08",
+                "valorPagamentoParcelaAnterior": "28433"
+            },
+            {
+                "dataVencimentoParcelaAnterior": "2021-04-08",
+                "valorParcelaAnterior": "28433",
+                "dataPagamentoParcelaAnterior": "2021-04-08",
+                "valorPagamentoParcelaAnterior": "28433"
+            },
+            {
+                "dataVencimentoParcelaAnterior": "2021-03-08",
+                "valorParcelaAnterior": "28433",
+                "dataPagamentoParcelaAnterior": "2021-03-08",
+                "valorPagamentoParcelaAnterior": "28433"
+            },
+            {
+                "dataVencimentoParcelaAnterior": "2021-02-08",
+                "valorParcelaAnterior": "28433",
+                "dataPagamentoParcelaAnterior": "2021-02-08",
+                "valorPagamentoParcelaAnterior": "28433"
+            },
+            {
+                "dataVencimentoParcelaAnterior": "2021-01-08",
+                "valorParcelaAnterior": "28433",
+                "dataPagamentoParcelaAnterior": "2021-01-08",
+                "valorPagamentoParcelaAnterior": "28433"
+            },
+            {
+                "dataVencimentoParcelaAnterior": "2020-12-08",
+                "valorParcelaAnterior": "28433",
+                "dataPagamentoParcelaAnterior": "2020-12-08",
+                "valorPagamentoParcelaAnterior": "28433"
+            },
+            {
+                "dataVencimentoParcelaAnterior": "2020-11-08",
+                "valorParcelaAnterior": "28433",
+                "dataPagamentoParcelaAnterior": "2020-11-08",
+                "valorPagamentoParcelaAnterior": "28433"
+            }
+        ],
+        "listaParcelasAvulsas": [],
+        "parcelasFuturas": {
+            "dataVencimentoProximaParcela": "2021-11-08",
+            "valorProximaParcela": "28433",
+            "quantidadeParcelasAVencer": 32,
+            "quantidadeParcelasAPagar": 32,
+            "periodicidadeParcelaFutura": "M"
+        }
+    },
+    "rotativoDetalhe": null
+}

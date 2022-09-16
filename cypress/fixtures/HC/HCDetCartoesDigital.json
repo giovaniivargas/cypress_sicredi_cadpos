@@ -1,0 +1,270 @@
+{
+    "detalhe": {
+        "tipoCliente": "1",
+        "origemInformacao": "CARTOES_DIGITAL",
+        "prefixoAgencia": "307",
+        "codigoModalidade": "D01",
+        "numeroContrato": "D0004345159000246132",
+        "identificacaoCliente": "1177376075",
+        "nomeCliente": "EVERSON DA SILVA",
+        "dataRemessa": [
+            2021,
+            10,
+            8
+        ],
+        "numeroRemessa": "77"
+    },
+    "cartaoCreditoDetalhe": {
+        "numeroPlasticoCartao": "8181",
+        "saldoDevedor": "0",
+        "dataRemessa": "2021-10-08",
+        "dataApuracao": "2021-10-06",
+        "listaParcelasAnteriores": [
+            {
+                "dataVencimentoFaturaFechadaAnterior": "2021-08-08",
+                "valorTotalPagamentoFaturaFechamentoAnterior": "81779",
+                "valorMinimoPagamentoFaturaFechamentoAnterior": "21726",
+                "dataPagamentoFaturaFechamentoAnterior": "2021-08-13",
+                "valorPagamentoFaturaFechamentoAnterior": "81779"
+            },
+            {
+                "dataVencimentoFaturaFechadaAnterior": "2021-07-08",
+                "valorTotalPagamentoFaturaFechamentoAnterior": "64811",
+                "valorMinimoPagamentoFaturaFechamentoAnterior": "9722",
+                "dataPagamentoFaturaFechamentoAnterior": "2021-07-23",
+                "valorPagamentoFaturaFechamentoAnterior": "56040"
+            },
+            {
+                "dataVencimentoFaturaFechadaAnterior": "2021-06-08",
+                "valorTotalPagamentoFaturaFechamentoAnterior": "54912",
+                "valorMinimoPagamentoFaturaFechamentoAnterior": "8237",
+                "dataPagamentoFaturaFechamentoAnterior": "2021-06-11",
+                "valorPagamentoFaturaFechamentoAnterior": "54912"
+            },
+            {
+                "dataVencimentoFaturaFechadaAnterior": "2021-05-08",
+                "valorTotalPagamentoFaturaFechamentoAnterior": "59019",
+                "valorMinimoPagamentoFaturaFechamentoAnterior": "8853",
+                "dataPagamentoFaturaFechamentoAnterior": "2021-05-01",
+                "valorPagamentoFaturaFechamentoAnterior": "59019"
+            },
+            {
+                "dataVencimentoFaturaFechadaAnterior": "2021-04-08",
+                "valorTotalPagamentoFaturaFechamentoAnterior": "46653",
+                "valorMinimoPagamentoFaturaFechamentoAnterior": "25180",
+                "dataPagamentoFaturaFechamentoAnterior": "2021-03-27",
+                "valorPagamentoFaturaFechamentoAnterior": "46653"
+            },
+            {
+                "dataVencimentoFaturaFechadaAnterior": "2021-02-08",
+                "valorTotalPagamentoFaturaFechamentoAnterior": "77264",
+                "valorMinimoPagamentoFaturaFechamentoAnterior": "61365",
+                "dataPagamentoFaturaFechamentoAnterior": "2021-02-22",
+                "valorPagamentoFaturaFechamentoAnterior": "77264"
+            },
+            {
+                "dataVencimentoFaturaFechadaAnterior": "2021-01-08",
+                "valorTotalPagamentoFaturaFechamentoAnterior": "56212",
+                "valorMinimoPagamentoFaturaFechamentoAnterior": "26038",
+                "dataPagamentoFaturaFechamentoAnterior": "2021-01-06",
+                "valorPagamentoFaturaFechamentoAnterior": "3891"
+            },
+            {
+                "dataVencimentoFaturaFechadaAnterior": "2020-12-08",
+                "valorTotalPagamentoFaturaFechamentoAnterior": "42034",
+                "valorMinimoPagamentoFaturaFechamentoAnterior": "23177",
+                "dataPagamentoFaturaFechamentoAnterior": "2020-12-15",
+                "valorPagamentoFaturaFechamentoAnterior": "42034"
+            },
+            {
+                "dataVencimentoFaturaFechadaAnterior": "2020-11-08",
+                "valorTotalPagamentoFaturaFechamentoAnterior": "23103",
+                "valorMinimoPagamentoFaturaFechamentoAnterior": "3465",
+                "dataPagamentoFaturaFechamentoAnterior": "2020-11-16",
+                "valorPagamentoFaturaFechamentoAnterior": "23103"
+            },
+            {
+                "dataVencimentoFaturaFechadaAnterior": "2020-10-08",
+                "valorTotalPagamentoFaturaFechamentoAnterior": "27546",
+                "valorMinimoPagamentoFaturaFechamentoAnterior": "4132",
+                "dataPagamentoFaturaFechamentoAnterior": "2020-10-08",
+                "valorPagamentoFaturaFechamentoAnterior": "27546"
+            },
+            {
+                "dataVencimentoFaturaFechadaAnterior": "2020-09-08",
+                "valorTotalPagamentoFaturaFechamentoAnterior": "5439",
+                "valorMinimoPagamentoFaturaFechamentoAnterior": "816",
+                "dataPagamentoFaturaFechamentoAnterior": "2020-09-17",
+                "valorPagamentoFaturaFechamentoAnterior": "5439"
+            },
+            {
+                "dataVencimentoFaturaFechadaAnterior": "2020-08-08",
+                "valorTotalPagamentoFaturaFechamentoAnterior": "19541",
+                "valorMinimoPagamentoFaturaFechamentoAnterior": "2931",
+                "dataPagamentoFaturaFechamentoAnterior": "2020-08-01",
+                "valorPagamentoFaturaFechamentoAnterior": "19541"
+            },
+            {
+                "dataVencimentoFaturaFechadaAnterior": "2020-07-08",
+                "valorTotalPagamentoFaturaFechamentoAnterior": "69583",
+                "valorMinimoPagamentoFaturaFechamentoAnterior": "35986",
+                "dataPagamentoFaturaFechamentoAnterior": "2020-07-09",
+                "valorPagamentoFaturaFechamentoAnterior": "69583"
+            },
+            {
+                "dataVencimentoFaturaFechadaAnterior": "2020-06-08",
+                "valorTotalPagamentoFaturaFechamentoAnterior": "67754",
+                "valorMinimoPagamentoFaturaFechamentoAnterior": "10163",
+                "dataPagamentoFaturaFechamentoAnterior": "2020-06-19",
+                "valorPagamentoFaturaFechamentoAnterior": "40200"
+            },
+            {
+                "dataVencimentoFaturaFechadaAnterior": "2020-05-08",
+                "valorTotalPagamentoFaturaFechamentoAnterior": "38951",
+                "valorMinimoPagamentoFaturaFechamentoAnterior": "5843",
+                "dataPagamentoFaturaFechamentoAnterior": "2020-04-29",
+                "valorPagamentoFaturaFechamentoAnterior": "38951"
+            },
+            {
+                "dataVencimentoFaturaFechadaAnterior": "2020-04-08",
+                "valorTotalPagamentoFaturaFechamentoAnterior": "36187",
+                "valorMinimoPagamentoFaturaFechamentoAnterior": "5428",
+                "dataPagamentoFaturaFechamentoAnterior": "2020-04-08",
+                "valorPagamentoFaturaFechamentoAnterior": "36187"
+            },
+            {
+                "dataVencimentoFaturaFechadaAnterior": "2020-03-08",
+                "valorTotalPagamentoFaturaFechamentoAnterior": "52840",
+                "valorMinimoPagamentoFaturaFechamentoAnterior": "7926",
+                "dataPagamentoFaturaFechamentoAnterior": "2020-03-09",
+                "valorPagamentoFaturaFechamentoAnterior": "52840"
+            },
+            {
+                "dataVencimentoFaturaFechadaAnterior": "2020-02-08",
+                "valorTotalPagamentoFaturaFechamentoAnterior": "52937",
+                "valorMinimoPagamentoFaturaFechamentoAnterior": "7940",
+                "dataPagamentoFaturaFechamentoAnterior": "2020-02-06",
+                "valorPagamentoFaturaFechamentoAnterior": "52937"
+            },
+            {
+                "dataVencimentoFaturaFechadaAnterior": "2020-01-08",
+                "valorTotalPagamentoFaturaFechamentoAnterior": "37431",
+                "valorMinimoPagamentoFaturaFechamentoAnterior": "5615",
+                "dataPagamentoFaturaFechamentoAnterior": "2019-12-29",
+                "valorPagamentoFaturaFechamentoAnterior": "37431"
+            },
+            {
+                "dataVencimentoFaturaFechadaAnterior": "2019-12-08",
+                "valorTotalPagamentoFaturaFechamentoAnterior": "49761",
+                "valorMinimoPagamentoFaturaFechamentoAnterior": "7465",
+                "dataPagamentoFaturaFechamentoAnterior": "2019-12-06",
+                "valorPagamentoFaturaFechamentoAnterior": "49761"
+            }
+        ],
+        "listaParcelasFuturas": [
+            {
+                "dataVencimentoFaturaFechamentoFutura": "2021-10-08",
+                "valorTotalPagamentoFaturaFechamentoFutura": "25158",
+                "valorMinimoPagamentoFaturaFechamentoFutura": "5945"
+            },
+            {
+                "dataVencimentoFaturaFechamentoFutura": "2021-10-08",
+                "valorTotalPagamentoFaturaFechamentoFutura": "25158",
+                "valorMinimoPagamentoFaturaFechamentoFutura": "5945"
+            },
+            {
+                "dataVencimentoFaturaFechamentoFutura": "2021-10-08",
+                "valorTotalPagamentoFaturaFechamentoFutura": "25158",
+                "valorMinimoPagamentoFaturaFechamentoFutura": "5945"
+            },
+            {
+                "dataVencimentoFaturaFechamentoFutura": "2021-10-08",
+                "valorTotalPagamentoFaturaFechamentoFutura": "25158",
+                "valorMinimoPagamentoFaturaFechamentoFutura": "5945"
+            },
+            {
+                "dataVencimentoFaturaFechamentoFutura": "2021-10-08",
+                "valorTotalPagamentoFaturaFechamentoFutura": "25158",
+                "valorMinimoPagamentoFaturaFechamentoFutura": "5945"
+            },
+            {
+                "dataVencimentoFaturaFechamentoFutura": "2021-10-08",
+                "valorTotalPagamentoFaturaFechamentoFutura": "25158",
+                "valorMinimoPagamentoFaturaFechamentoFutura": "5945"
+            },
+            {
+                "dataVencimentoFaturaFechamentoFutura": "2021-10-08",
+                "valorTotalPagamentoFaturaFechamentoFutura": "25158",
+                "valorMinimoPagamentoFaturaFechamentoFutura": "5945"
+            },
+            {
+                "dataVencimentoFaturaFechamentoFutura": "2021-10-08",
+                "valorTotalPagamentoFaturaFechamentoFutura": "25158",
+                "valorMinimoPagamentoFaturaFechamentoFutura": "5945"
+            },
+            {
+                "dataVencimentoFaturaFechamentoFutura": "2021-10-08",
+                "valorTotalPagamentoFaturaFechamentoFutura": "25158",
+                "valorMinimoPagamentoFaturaFechamentoFutura": "5945"
+            },
+            {
+                "dataVencimentoFaturaFechamentoFutura": "2021-10-08",
+                "valorTotalPagamentoFaturaFechamentoFutura": "25158",
+                "valorMinimoPagamentoFaturaFechamentoFutura": "5945"
+            },
+            {
+                "dataVencimentoFaturaFechamentoFutura": "2021-10-08",
+                "valorTotalPagamentoFaturaFechamentoFutura": "25158",
+                "valorMinimoPagamentoFaturaFechamentoFutura": "5945"
+            },
+            {
+                "dataVencimentoFaturaFechamentoFutura": "2021-10-08",
+                "valorTotalPagamentoFaturaFechamentoFutura": "25158",
+                "valorMinimoPagamentoFaturaFechamentoFutura": "5945"
+            },
+            {
+                "dataVencimentoFaturaFechamentoFutura": "2021-10-08",
+                "valorTotalPagamentoFaturaFechamentoFutura": "25158",
+                "valorMinimoPagamentoFaturaFechamentoFutura": "5945"
+            },
+            {
+                "dataVencimentoFaturaFechamentoFutura": "2021-10-08",
+                "valorTotalPagamentoFaturaFechamentoFutura": "25158",
+                "valorMinimoPagamentoFaturaFechamentoFutura": "5945"
+            },
+            {
+                "dataVencimentoFaturaFechamentoFutura": "2021-10-08",
+                "valorTotalPagamentoFaturaFechamentoFutura": "25158",
+                "valorMinimoPagamentoFaturaFechamentoFutura": "5945"
+            },
+            {
+                "dataVencimentoFaturaFechamentoFutura": "2021-10-08",
+                "valorTotalPagamentoFaturaFechamentoFutura": "25158",
+                "valorMinimoPagamentoFaturaFechamentoFutura": "5945"
+            },
+            {
+                "dataVencimentoFaturaFechamentoFutura": "2021-10-08",
+                "valorTotalPagamentoFaturaFechamentoFutura": "25158",
+                "valorMinimoPagamentoFaturaFechamentoFutura": "5945"
+            },
+            {
+                "dataVencimentoFaturaFechamentoFutura": "2021-10-08",
+                "valorTotalPagamentoFaturaFechamentoFutura": "25158",
+                "valorMinimoPagamentoFaturaFechamentoFutura": "5945"
+            },
+            {
+                "dataVencimentoFaturaFechamentoFutura": "2021-10-08",
+                "valorTotalPagamentoFaturaFechamentoFutura": "25158",
+                "valorMinimoPagamentoFaturaFechamentoFutura": "5945"
+            },
+            {
+                "dataVencimentoFaturaFechamentoFutura": "2021-10-08",
+                "valorTotalPagamentoFaturaFechamentoFutura": "25158",
+                "valorMinimoPagamentoFaturaFechamentoFutura": "5945"
+            }
+        ]
+    },
+    "consorcioDetalhe": null,
+    "creditoParceladoDetalhe": null,
+    "rotativoDetalhe": null
+}

@@ -1,0 +1,43 @@
+{
+    "detalhe": {
+        "dataRemessa": "2021-10-01",
+        "numeroRemessa": "76",
+        "prefixoAgencia": "101",
+        "identificacaoCliente": "2121254005",
+        "tipoCliente": "1",
+        "nomeCliente": "TIAGO DO NASCIMENTO MACHADO",
+        "numeroContrato": "DIG21939",
+        "codigoModalidade": "E01",
+        "codigoOcorrenciaCliente": "182",
+        "descricaoOcorrenciaCliente": "Fechamento duplicado",
+        "origemInformacao": "ROTATIVO_CREDITO_DIGITAL"
+    },
+    "cartaoCreditoDetalhe": null,
+    "consorcioDetalhe": null,
+    "creditoParceladoDetalhe": null,
+    "rotativoDetalhe": {
+        "dataVencimentoOperacao": "2021-12-22",
+        "dataRemessa": "2021-10-01",
+        "dataApuracao": "2021-09-29",
+        "listaParcelasAnteriores": [
+            {
+                "dataFechamentoAnterior": "2021-09-30",
+                "saldoUtilizadoFechamentoAnterior": "30862"
+            },
+            {
+                "dataFechamentoAnterior": "2021-08-31",
+                "saldoUtilizadoFechamentoAnterior": "261624"
+            },
+            {
+                "dataFechamentoAnterior": "2021-07-31",
+                "saldoUtilizadoFechamentoAnterior": "204448"
+            }
+        ],
+        "listaParcelasAtuais": [
+            {
+                "dataFechamentoAtual": "2021-09-30",
+                "saldoUtilizadoFechamentoAtual": "30862"
+            }
+        ]
+    }
+}

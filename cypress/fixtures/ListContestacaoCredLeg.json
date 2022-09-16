@@ -1,0 +1,50 @@
+{
+    "content": [
+        {
+            "identificadorSequencialContestacao": 26000017,
+            "tipoCliente": "1",
+            "identificacaoCliente": "36295341802",
+            "detalhamentoIdentificacaoCliente": "36295341802",
+            "prefixoAgencia": "737",
+            "numeroContrato": "B840313983",
+            "detalhamentoPrefixoAgencia": "737",
+            "detalhamentoNumeroContrato": "B840313983",
+            "tipoContestacao": "O",
+            "dataAcolhimento": "2020-04-21",
+            "nomeCliente": "PATRICIA DE SOUZA INACIO",
+            "codigoModalidade": "B05",
+            "codigoOcorrencia": "0",
+            "origemInformacao": "CREDITO_LEGADO",
+            "nomeGbd": "BOA_VISTA",
+            "dataEnvio": "2021-01-21@07:51",
+            "dataResposta": null,
+            "naoPodeEditar": false,
+            "prazo": "VENCIDA"
+        }
+    ],
+    "pageable": {
+        "sort": {
+            "sorted": false,
+            "unsorted": true,
+            "empty": true
+        },
+        "pageSize": 10,
+        "pageNumber": 0,
+        "offset": 0,
+        "paged": true,
+        "unpaged": false
+    },
+    "totalElements": 1,
+    "totalPages": 1,
+    "last": true,
+    "first": true,
+    "sort": {
+        "sorted": false,
+        "unsorted": true,
+        "empty": true
+    },
+    "numberOfElements": 1,
+    "size": 10,
+    "number": 0,
+    "empty": false
+}

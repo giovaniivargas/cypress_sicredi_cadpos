@@ -1,0 +1,41 @@
+{
+    "content": [
+        {
+            "identificadorSequencialHistoricoCredito": null,
+            "dataRemessa": "2021-10-08",
+            "identificacaoCliente": "75382610010",
+            "nomeCliente": "IVAN HERMINDO BASSO",
+            "prefixoAgencia": "1504",
+            "numeroContrato": "0250009041",
+            "codigoModalidade": "B03",
+            "origemInformacao": "IMOBILIARIO_LEGADO",
+            "tipoCliente": "1",
+            "numeroRemessa": "77"
+        }
+    ],
+    "pageable": {
+        "sort": {
+            "sorted": true,
+            "unsorted": false,
+            "empty": false
+        },
+        "pageSize": 10,
+        "pageNumber": 0,
+        "offset": 0,
+        "paged": true,
+        "unpaged": false
+    },
+    "totalElements": 1,
+    "last": true,
+    "totalPages": 1,
+    "first": true,
+    "sort": {
+        "sorted": true,
+        "unsorted": false,
+        "empty": false
+    },
+    "numberOfElements": 1,
+    "size": 10,
+    "number": 0,
+    "empty": false
+}

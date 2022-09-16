@@ -1,0 +1,43 @@
+{
+    "content": [
+        {
+            "identificadorSequencialContestacao": 113700026,
+            "dataResposta": "2022-07-21",
+            "detalhamentoIdentificacaoCliente": "13404914600",
+            "nomeCliente": "LEANDRO APARECIDO DE OLIVEIRA",
+            "detalhamentoPrefixoAgencia": "333",
+            "detalhamentoNumeroContrato": "1000118448",
+            "codigoOcorrencia": "8",
+            "nomeGbd": "SERASA",
+            "codigoModalidade": "A04",
+            "origemInformacao": "CREDITO_DIGITAL",
+            "ldapUserAtualizacao": "jessica_ito",
+            "tipoContestacao": "O"
+        }
+    ],
+    "pageable": {
+        "sort": {
+            "sorted": false,
+            "unsorted": true,
+            "empty": true
+        },
+        "pageSize": 10,
+        "pageNumber": 0,
+        "offset": 0,
+        "paged": true,
+        "unpaged": false
+    },
+    "totalPages": 1,
+    "totalElements": 1,
+    "last": true,
+    "first": true,
+    "sort": {
+        "sorted": false,
+        "unsorted": true,
+        "empty": true
+    },
+    "numberOfElements": 2,
+    "size": 10,
+    "number": 0,
+    "empty": false
+}

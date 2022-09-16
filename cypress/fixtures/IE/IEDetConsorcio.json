@@ -1,0 +1,43 @@
+{
+    "detalhe": {
+        "dataRemessa": "2021-10-08",
+        "numeroRemessa": "77",
+        "prefixoAgencia": "9103",
+        "identificacaoCliente": "96966874949",
+        "tipoCliente": "1",
+        "nomeCliente": "ELISANGELA TRAINOTTI FISCHER",
+        "numeroContrato": "293445",
+        "codigoModalidade": "C01",
+        "codigoOcorrenciaCliente": "181",
+        "descricaoOcorrenciaCliente": "Parcela futura duplicada",
+        "origemInformacao": "CONSORCIO_LEGADO"
+    },
+    "cartaoCreditoDetalhe": null,
+    "consorcioDetalhe": {
+        "situacaoCota": "2",
+        "valorObrigacaoContratado": "12919000",
+        "dataVencimentoUltimaParcelaConsorcio": "2021-06-25",
+        "quantidadeParcelasCotaConsorcio": "75",
+        "saldoDevedorCotaConsorcio": "0",
+        "dataContemplacaoCotaConsorcio": "2018-10-04",
+        "dataRemessa": "2021-10-08",
+        "dataApuracao": "2021-10-05",
+        "listaParcelasAnteriores": [],
+        "listaParcelasAvulsas": [
+            {
+                "dataPagamentoAvulsoConsorcio": "2021-09-10",
+                "valorPagamentoAvulsoConsorcio": "52",
+                "tipoPagamentoAvulsoConsorcio": "T"
+            }
+        ],
+        "parcelasFuturas": {
+            "dataVencimentoProximaParcelaConsorcio": null,
+            "valorProximaParcelaConsorcio": null,
+            "quantidadeParcelasAVencerConsorcio": "0",
+            "quantidadeParcelasAPagarCotaConsorcio": "0",
+            "periodicidadeParcelaFuturaConsorcio": null
+        }
+    },
+    "creditoParceladoDetalhe": null,
+    "rotativoDetalhe": null
+}

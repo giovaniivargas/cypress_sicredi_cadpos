@@ -1,0 +1,41 @@
+{
+    "content": [
+        {
+            "identificadorSequencialHistoricoCreditoRejeitados": 336967443,
+            "dataApuracao": "2022-04-25",
+            "codigoModalidade": "A01",
+            "prefixoAgencia": "1504",
+            "numeroContrato": "7024064",
+            "tipoCliente": "1",
+            "identificacaoCliente": "53860969900",
+            "origemInformacao": "CONSIGNADO",
+            "codigoRejeicao": "ERRO_34_1",
+            "descricaoRejeicao": "Reporte Parcelados - Não será permitido valores em branco ou nulos para parcelas futuras (QTPCLPGR), quando já tenha ocorrido algum pagamento(PgtoPclAnt ou PgtoAvls)"
+        }
+    ],
+    "pageable": {
+        "sort": {
+            "sorted": true,
+            "unsorted": false,
+            "empty": false
+        },
+        "pageSize": 10,
+        "pageNumber": 0,
+        "offset": 0,
+        "paged": true,
+        "unpaged": false
+    },
+    "totalElements": 1,
+    "totalPages": 1,
+    "last": true,
+    "first": true,
+    "sort": {
+        "sorted": true,
+        "unsorted": false,
+        "empty": false
+    },
+    "numberOfElements": 1,
+    "size": 10,
+    "number": 0,
+    "empty": false
+}

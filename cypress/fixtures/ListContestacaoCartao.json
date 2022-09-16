@@ -1,0 +1,50 @@
+{
+    "content": [
+        {
+            "identificadorSequencialContestacao": 99600020,
+            "tipoCliente": "1",
+            "identificacaoCliente": "70068254156",
+            "detalhamentoIdentificacaoCliente": "70068254156",
+            "prefixoAgencia": "3950",
+            "numeroContrato": "D0004345159000129569",
+            "detalhamentoPrefixoAgencia": "3950",
+            "detalhamentoNumeroContrato": "D0004345159000129569",
+            "tipoContestacao": "O",
+            "dataAcolhimento": "2022-05-21",
+            "nomeCliente": "EDUARDO DA CONCEICAO",
+            "codigoModalidade": "D01",
+            "codigoOcorrencia": "0",
+            "origemInformacao": "CARTOES_DIGITAL",
+            "nomeGbd": "SERASA",
+            "dataEnvio": "2022-07-11@07:05",
+            "dataResposta": null,
+            "naoPodeEditar": false,
+            "prazo": "VENCIDA"
+        }
+    ],
+    "pageable": {
+        "sort": {
+            "unsorted": true,
+            "sorted": false,
+            "empty": true
+        },
+        "pageSize": 10,
+        "pageNumber": 0,
+        "offset": 0,
+        "paged": true,
+        "unpaged": false
+    },
+    "totalPages": 1,
+    "totalElements": 1,
+    "last": true,
+    "first": true,
+    "sort": {
+        "unsorted": true,
+        "sorted": false,
+        "empty": true
+    },
+    "numberOfElements": 1,
+    "size": 10,
+    "number": 0,
+    "empty": false
+}

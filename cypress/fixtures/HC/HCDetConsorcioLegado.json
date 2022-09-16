@@ -1,0 +1,118 @@
+{
+    "detalhe": {
+        "tipoCliente": "1",
+        "origemInformacao": "CONSORCIO_LEGADO",
+        "prefixoAgencia": "3009",
+        "codigoModalidade": "C01",
+        "numeroContrato": "735523",
+        "identificacaoCliente": "4881948814",
+        "nomeCliente": "RICARDO FRANCISCO DA COSTA BENTO",
+        "dataRemessa": [
+            2020,
+            10,
+            23
+        ],
+        "numeroRemessa": "21"
+    },
+    "cartaoCreditoDetalhe": null,
+    "consorcioDetalhe": {
+        "situacaoCota": "2",
+        "valorObrigacaoContratado": "5019000",
+        "dataVencimentoUltimaParcelaConsorcio": "2023-12-19",
+        "quantidadeParcelasCotaConsorcio": "60",
+        "saldoDevedorCotaConsorcio": "1965435",
+        "dataContemplacaoCotaConsorcio": "2019-04-26",
+        "dataRemessa": "2020-10-23",
+        "dataApuracao": "2020-10-21",
+        "listaParcelasAnteriores": [
+            {
+                "dataVencimentoParcelaAnteriorConsorcio": "2020-10-19",
+                "valorParcelaAnteriorConsorcio": "52135",
+                "dataPagamentoParcelaAnteriorConsorcio": "9999-12-31",
+                "valorPagamentoParcelaAnteriorConsorcio": "0"
+            },
+            {
+                "dataVencimentoParcelaAnteriorConsorcio": "2020-09-21",
+                "valorParcelaAnteriorConsorcio": "52135",
+                "dataPagamentoParcelaAnteriorConsorcio": "2020-09-21",
+                "valorPagamentoParcelaAnteriorConsorcio": "52727"
+            },
+            {
+                "dataVencimentoParcelaAnteriorConsorcio": "2020-08-19",
+                "valorParcelaAnteriorConsorcio": "52135",
+                "dataPagamentoParcelaAnteriorConsorcio": "2020-08-19",
+                "valorPagamentoParcelaAnteriorConsorcio": "51614"
+            },
+            {
+                "dataVencimentoParcelaAnteriorConsorcio": "2020-07-20",
+                "valorParcelaAnteriorConsorcio": "52135",
+                "dataPagamentoParcelaAnteriorConsorcio": "2020-07-20",
+                "valorPagamentoParcelaAnteriorConsorcio": "51642"
+            },
+            {
+                "dataVencimentoParcelaAnteriorConsorcio": "2020-06-19",
+                "valorParcelaAnteriorConsorcio": "52135",
+                "dataPagamentoParcelaAnteriorConsorcio": "2020-06-19",
+                "valorPagamentoParcelaAnteriorConsorcio": "51669"
+            },
+            {
+                "dataVencimentoParcelaAnteriorConsorcio": "2020-05-19",
+                "valorParcelaAnteriorConsorcio": "52135",
+                "dataPagamentoParcelaAnteriorConsorcio": "2020-05-19",
+                "valorPagamentoParcelaAnteriorConsorcio": "51697"
+            },
+            {
+                "dataVencimentoParcelaAnteriorConsorcio": "2020-04-20",
+                "valorParcelaAnteriorConsorcio": "52135",
+                "dataPagamentoParcelaAnteriorConsorcio": "2020-04-20",
+                "valorPagamentoParcelaAnteriorConsorcio": "51725"
+            },
+            {
+                "dataVencimentoParcelaAnteriorConsorcio": "2020-03-19",
+                "valorParcelaAnteriorConsorcio": "52135",
+                "dataPagamentoParcelaAnteriorConsorcio": "2020-03-19",
+                "valorPagamentoParcelaAnteriorConsorcio": "51753"
+            },
+            {
+                "dataVencimentoParcelaAnteriorConsorcio": "2020-02-19",
+                "valorParcelaAnteriorConsorcio": "52135",
+                "dataPagamentoParcelaAnteriorConsorcio": "2020-02-19",
+                "valorPagamentoParcelaAnteriorConsorcio": "51155"
+            },
+            {
+                "dataVencimentoParcelaAnteriorConsorcio": "2020-01-20",
+                "valorParcelaAnteriorConsorcio": "52135",
+                "dataPagamentoParcelaAnteriorConsorcio": "2020-01-20",
+                "valorPagamentoParcelaAnteriorConsorcio": "51182"
+            },
+            {
+                "dataVencimentoParcelaAnteriorConsorcio": "2019-12-19",
+                "valorParcelaAnteriorConsorcio": "52135",
+                "dataPagamentoParcelaAnteriorConsorcio": "2019-12-19",
+                "valorPagamentoParcelaAnteriorConsorcio": "51210"
+            },
+            {
+                "dataVencimentoParcelaAnteriorConsorcio": "2019-11-19",
+                "valorParcelaAnteriorConsorcio": "52135",
+                "dataPagamentoParcelaAnteriorConsorcio": "2019-11-19",
+                "valorPagamentoParcelaAnteriorConsorcio": "51237"
+            },
+            {
+                "dataVencimentoParcelaAnteriorConsorcio": "2019-10-21",
+                "valorParcelaAnteriorConsorcio": "52135",
+                "dataPagamentoParcelaAnteriorConsorcio": "2019-10-21",
+                "valorPagamentoParcelaAnteriorConsorcio": "51265"
+            }
+        ],
+        "listaParcelasAvulsas": [],
+        "parcelasFuturas": {
+            "dataVencimentoProximaParcelaConsorcio": "2020-11-19",
+            "valorProximaParcelaConsorcio": "52135",
+            "quantidadeParcelasAVencerConsorcio": "38",
+            "quantidadeParcelasAPagarCotaConsorcio": "39",
+            "periodicidadeParcelaFuturaConsorcio": "M"
+        }
+    },
+    "creditoParceladoDetalhe": null,
+    "rotativoDetalhe": null
+}
